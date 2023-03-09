@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dcterms:title,dcterms:spatial,dcterms:date
+=======
+
+>>>>>>> 748730bb773af96ad9ac8944182aa94710f5b3e8
