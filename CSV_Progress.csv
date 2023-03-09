@@ -1,0 +1,1110 @@
+Page,Segment ID,Place Name,Dates
+1,A,"San Souci, Haiti", 
+1,A,,
+1,A,"San Souci, Haiti",
+1,A,"San Souci, Haiti",
+1,A,"San Souci, Haiti",
+1,A,,
+1,B,"Nevis, West Indies",
+1,B,England,
+1,B,,
+1,C,South Africa,1949
+1,C,South Africa,1949
+1,C,South Africa,1949
+1,C,,
+2,A,"Galveston, Texas",1978
+2,A,,1924
+2,A,N. Carolina,1945
+2,A,Australia,
+2,A,,
+2,A,"Havana, Cuba",1915
+2,A,,
+2,B,"Newark, N.J.", 
+2,B,Russia,
+2,B,,
+2,C,"Girard, Kansas",
+2,C,,
+2,C,,
+3,A,"Adowa, Ethiopia",1896
+3,A,Spain,
+3,A,Italy,
+3,A,,
+3,A,,
+3,A,Southern France,
+3,A,Europe,1896
+3,A,,
+3,B,"Louisville, KY",1859
+3,B,"Kaw Valley, Kans",
+3,B,,
+3,B,,
+3,C,Cuba,1852-1911
+3,C,Paris,
+3,C,The Conservatory,
+3,C,Leading European Cities,
+3,C,,
+3,C,Germany,
+3,C,,
+4,A,Ghana, 
+4,A,Africa,
+4,A,Cambridge Univ.,
+4,A,Oxford,
+4,A,"London, England",
+4,A,"University College, Ghana",
+4,A,Ghana,
+4,A,Liberia,
+4,A,Sierra Leone,
+4,A,,1946
+4,A,,
+4,A,,
+4,A,,
+4,A,The Congo,
+4,A,,
+4,D,United States,1829
+4,D,,
+4,D,,
+4,C,Kentucky,1872
+4,C,The State Mansion,36 years
+4,C,,
+4,C,,
+4,C,,
+5,A,Morocco,1870s and 80s
+5,A,Morocco,
+5,A,,
+5,A,Morocco,
+5,A,Morocco,
+5,A,Morocco,
+5,A,,
+5,C,Haiti,
+5,C,Haiti,
+5,C,Haiti,
+5,C,Haiti,
+5,C,,
+5,D,,
+5,D,"Fresno, California", 
+5,D,,
+5,D,,
+6,A,"Mound Bayou, Miss.",1847
+6,A,"Mound Bayou, Miss.",1887
+6,A,"Mound Bayou, Miss.",1887
+6,A,,
+6,A,,
+6,C,"Mound Bayou, Miss.","July 17, 1887"
+6,C,"Mound Bayou, Miss.",
+6,C,"Mound Bayou, Miss.",
+6,C,,
+6,C,,1890
+6,C,,
+6,C,,
+6,D,France,
+6,D,France,
+6,D,,
+6,D,Africa,1504
+6,D,Africa,1504
+6,D,Scotland,1504
+6,D,Scotland,
+6,D,"Edinburgh, Scotland",June 1507
+6,D,,
+7,A,Tunis,1533
+7,A,North Africa,
+7,A,England,
+7,A,Ireland,
+7,A,Sallee (Morocco),
+7,A,Algiers,
+7,A,Tunis,
+7,A,Constantinople,
+7,A,,1800
+7,A,The United States,
+7,A,Atlantic,
+7,A,Mediterranean,
+7,A,,
+7,C,"St. Augustine, Fla", 
+7,C,,
+7,D,,1884
+7,D,,1885
+7,D,,1886
+7,D,,1888
+7,D,,
+7,D,,
+7,D,,
+7,D,Church Hill Downs,
+7,D,,
+7,D,Church Hill Downs,
+7,D,,
+7,D,,
+8,A,Persia,2300 B.C.
+8,A,Babylon,
+8,A,Assyria,
+8,A,,
+8,A,,
+8,A,Susa,
+8,A,,
+8,A,,
+8,A,,
+8,A,,
+8,A,Susa,
+8,C,U.S.,1869
+8,C,U.S., 
+8,C,Philadelphia, 
+8,C,Columbia, 
+8,C,S.C., 
+8,C,Washington D.C., 
+8,C,,
+8,D,Africa, 
+8,D,Southern Morocco,
+8,D,Southern Morocco,
+8,D,Southern Morocco,
+8,D,Southern Morocco,
+8,D,,
+9,A,Nigeria,1958
+9,A,"London University, England",
+9,A,,
+9,A,,
+9,A,,
+9,D,France,
+9,D,Sudan,
+9,D,Sudan,
+9,D,,
+9,D,,
+9,C,South Africa,1765-1835
+9,C,South Africa,
+9,C,South Africa,
+9,C,"Kok-Stad, Griqualand",1867
+9,C,"Kok-Stad, Griqualand",
+9,C,"Kok-Stad, Griqualand",
+9,C,,
+10,A,"Brighton, England",18th Century
+10,A,"Brighton, England",18th Century
+10,A,,
+10,B,"Central Sahara, Africa",1935
+10,B,"Kahalari Desert, South Africa",
+10,B,Ancient Egypt,
+10,B,Ancient Egypt,
+10,B,,
+10,C,Timbuctoo,late 17th Century
+10,C,Timbuctoo,
+10,C,Timbuctoo, 
+10,C,The Niger,late 17th Century
+10,C,,
+11,A,The Gold Coast,
+11,A,Geneva,1956
+11,A,,
+11,D,American Colonies,
+11,D,American Colonies,
+11,D,American Colonies,
+11,D,American Colonies,
+11,D,American Colonies,
+11,D,American Colonies,
+11,D,American Colonies,
+11,D,American Colonies,
+11,D,Niger,
+11,D,Ancient Rome,
+11,D,Europe,
+11,D,Europe,
+11,D,,
+11,C,New York City,1825
+11,C,Europe,
+11,C,America,
+11,C,France,
+11,C,France,
+11,C,France,
+11,C,Russia,
+11,C,America ,1851
+11,C,,
+11,C,,
+11,C,,
+11,C,,
+12,A,,1836
+12,A,New York ,
+12,A,China,
+12,A,France,
+12,A,Japan,
+12,A,Italy,
+12,A,Mexico,
+12,A,"Nashville, Tenessee",
+12,A,The Southern Exposition,
+12,A,,The Civil War
+12,A,,
+12,C,"New Haven, Connecticut",1833-1938
+12,C,,
+12,C,,1863
+12,C,"Des Moines, Iowa",
+12,C,,
+12,C,,
+12,D,,
+12,D,,
+12,D,,
+12,D,,
+13,A,New Orleans,"April 6, 1893"
+13,A,,
+13,A,New Orleans,"April 6, 1893"
+13,A,,
+13,A,,
+13,C,,
+13,C,,
+13,C,Virginia,
+13,C,,
+14,A,Ethiopia,
+14,A,England,
+14,A,"Rugby, England", 
+14,A,"Magdala, Ethiopia",1867
+14,A,The Royal Chapel at Windsor,1876
+14,A,,
+14,C,W. Indies,1686
+14,C,Philadelphia,
+14,C,,
+14,C,,
+14,C,,
+14,C,,1804
+14,C,,
+14,D,"Cincinatti, Ohio",1850s
+14,D,,
+14,D,"Cincinatti, Ohio",
+14,D,"Cincinatti, Ohio",
+14,D,Virginia,
+14,D,,
+15,A,Natchez,
+15,A,,
+15,A,,
+15,A,New Orleans,
+15,A,,
+15,A,,
+15,A,,
+15,A,,
+15,C,"The Mother Lodge Leeds, England",
+15,C,United States,
+15,C,,1852
+15,C,,1843
+15,C,,1843
+15,C,,1843
+15,C,,
+15,D,,1917
+15,D,America,Before the Civil War
+15,D,America,Before the Civil War
+15,D,,
+15,D,,
+16,A,Gaboon,
+16,A,Gaboon,1849
+16,A,,1876
+16,A,,
+16,A,,
+16,C,America,1890
+16,C,America,
+16,C,America,"May 11, 1889"
+16,C,,
+17,A,Morocco,
+17,A,,
+17,C,Egypt,1500 B.C.
+17,C,Southern Palestine,
+17,C,"Grant Parrish, Louisiana","April 13, 1873"
+17,C,"Grant Parrish, Louisiana",
+18,A,Ethiopia,
+18,A,Egypt,
+18,A,,
+18,A,,3730 BC
+18,C,Egypt,670 B.C.
+18,C,Egypt,8th Century B.C.
+18,C,Egypt,
+18,C,,
+18,C,Palestine,
+18,C,Assyria,
+18,C,Calrsberg,
+18,C,Glyptotek,
+18,C,Copenhagen,
+18,C,,
+18,D,Oregon,"Fb. 12, 1985"
+18,D,,
+19,A,,1785-1851
+19,A,,
+19,A,,
+19,A,,
+19,D,"Uganda, East Africa",
+19,D,,
+19,D,Britain,1902
+19,C,Southern India,14th Century B.C.
+19,C,Asai,14
+19,C,Indo-China,14th Century B.C.
+19,C,,
+20,A,Nyassa-Land,1962
+20,A,,
+20,A,Chicago, 
+20,A,"Edinburgh, Scotland", 
+20,A,London, 
+20,A,,
+20,C,U.S.,
+20,C,U.S.,
+20,C,U.S.,
+20,C,,
+20,C,,
+20,D,,1959
+20,D,,1959
+20,D,,1959
+20,D,,1959
+20,D,, 
+21,A,"Ruanda, East Africa", 
+21,A,,
+21,C,England,1651
+21,C,,
+21,C,Wales,1651
+21,C,France,1651
+21,C,Wales,1651
+21,C,,
+21,D,Jerusalem,
+21,D,Jerusalem,
+21,D,Jerusalem,
+21,D,,
+22,A,"Nigeria, West Africa",
+22,A,Britain,
+22,A,Edinburgh University,
+22,A,,
+22,A,Britain,1947
+22,A,Britain,1947
+22,A,,
+22,C,Virgin Islands,1848
+22,C,Virgin Islands,1848
+22,C,St. Croix,1848
+22,C,,
+22,D,,1862-1930
+22,D,Paris,
+22,D,Algeria, 
+22,D,,
+23,A,Egypt,1500 B.C.
+23,A,Arabia,1500 B.C.
+23,A,Ancient East,1500 B.C.
+23,A,Sudan,1500 B.C.
+23,A,"Egyptian Dept. Metropolitan Museum of Art, New York",1500 B.C.
+23,A,,
+23,A,,
+23,D,,
+23,D,Philadelphia,
+23,D,,
+23,D,,
+23,C,"Lexington, KY",1926
+23,C,"Lexington, KY",1926
+23,D,,
+24,A,New York,American Revolution
+24,A,New York,American Revolution
+24,A,West Indies, 
+24,A,Jamaica, 
+24,A,,
+24,C,Ancient Mexico,
+24,C,Panama,1513
+24,C,Africa, 
+24,C,Africa, 
+24,C,Ancient Egypt,
+24,C,Oceania,
+24,C,,
+24,D,Tortuga,
+24,D,Tortuga,
+24,D,Tortuga,
+24,D,Tortuga,
+24,D,Tortuga,
+24,D,,
+25,A,"Ladies' Island, South Carolina",May 1862
+25,A,America,
+25,A,,
+25,B,"Washington, D.C.",1867
+25,B,"Washington, D.C.",1871
+25,B,"Washington, D.C.",1867
+25,C,Africa,1802-1811
+25,C,Africa,1802-1811
+25,C,"Portuguese, W. Africa",1802-1811
+25,C,"Prtugues, East Africa",1802-1811
+25,C,"Portuguese, W. Africa",1802-1811
+25,C,"Portugues, East Africa",1802-1811
+26,A,"Island of Reunion, East Africa",1865
+26,A,"Island of Reunion, East Africa",
+26,D,,1861
+26,D,Ohio,
+26,D,America,
+26,D,America,
+26,D,,
+26,C,Tennessee,
+26,C,Memphis & Ohio R.R.,1868
+26,C,,
+26,C,,
+27,A,St. Helena,
+27,A,St. Helena,
+27,A,Malaya,
+27,A,St. Helena,
+27,A,San Domingo,
+27,A,,
+27,C,Europe,
+27,C,Africa,
+27,C,,1066 AD
+27,C,,
+27,C,,
+27,D,"The Parish of St. John the Baptist, L.A.",1811
+27,D,L.A.,
+27,D,,
+28,A,Africa,1808
+28,A,New York,
+28,A,Denmark,
+28,B,"Lamorella, Spain",
+28,B,Europe,
+28,B,Africa,
+28,C,Egypt,
+28,C,"Rhodesia, South Africa",
+29,A,Holland,1606-69
+29,A,Holland,1606-69
+29,A,Belgium,
+29,A,Spain,
+29,C,The Suez Canal,
+29,C,The Panama Canal,
+29,C,Egypt(ians),
+29,C,Sudan(ese),
+29,C,British West Indi(ans),
+29,D,Brazil,1767-1830
+30,A,"Cleveland, Ohio",
+30,C,Mexico,
+30,D,Tropical Central America,
+30,D,,
+31,A,U.S.,1866-1923
+31,A,U.S.,
+31,A,Holland,
+31,A,Norway,
+31,C,"St. Croix, Virgin Islands",1848
+31,D,New York City,1940-1950
+31,D,Chicago,1940-1950
+31,D,Detroit,1940-1950
+31,D,"Charleston, S.C.",1940-1950
+32,A,"Benin, West Africa",1485
+32,C,Ethiopia,
+32,C,Ethiopia,
+32,D,Arkansas,1960
+32,D,Mississippi,1960
+32,D,Missouri,1960
+32,D,Tennessee,1960
+32,D,,
+33,A,"Lexington, KY",1814
+33,A,,1934
+33,A,Paris,1849
+33,A,Europe,1854
+33,D,,
+33,D,,
+33,D,,
+33,D,,
+33,D,,
+33,D,Paris,
+33,D,Toulouse,
+33,D,Toulouse,
+33,D,France,
+33,D,France,
+33,D,France,
+33,D,France,
+33,D,France,
+33,C,Ethiopia,690 B.C.
+33,C,Egypt ,690 B.C.
+33,C,Ethiopia,720 B.C.
+33,C,Egypt,720 B.C.
+33,C,Assyria,
+33,C,Palestine,
+33,C,Syria,
+33,C,Syria,
+34,A,"Springfield, Illinois",
+34,A,"Springfield, Illinois",
+34,A,,
+34,D,,1898
+34,C,Egypt ,4500 B.C.
+34,C,Ethiopia,
+34,C,Nubia,
+35,A,Egypt ,660 B.C.
+35,A,Egypt ,
+35,A,Ethiopia,
+35,A,Syria,
+35,A,Egypt ,
+35,A,Britain,
+35,D,"Albany, New York",1892
+35,C,N.Y. City,"Dec. 11, 1928"
+35,C,Philadelphia,"Dec. 11, 1928"
+35,C,"London, England","Dec. 11, 1928"
+35,C,,
+36,A,"Benin, West Africa",1500 A.D.
+36,C,"Annamboe, West Africa",18th Century
+36,C,London,18th Century
+37,A,"Martinique, West Indies",1848
+37,A,Paris,1848
+37,A,Paris,
+37,C,,
+37,D,New York City,July 1863
+38,A,,
+38,A,"Rayville, Alabama",
+38,A,,
+38,D,The Philippines,
+38,D,Southern Japan,
+38,C,Prehistoric South Africa,"25,000 to 50,000 B.C."
+38,C,Central Russia,
+39,A,South Carolina,20th Century
+39,A,,20th Century
+39,A,,20th Century
+39,A,,20th Century
+39,A,,20th Century
+39,B,Louisiana,1844-1913
+39,B,,
+39,B,Louisiana,1874
+39,C,"Davidson County, Tenn.",1850
+39,C,"Davidson County, Tenn.",1865
+40,A,Cuba,1927
+40,A,Paris,
+40,A,Madrid,
+40,A,Cuba,
+40,A,,1949
+40,C,District of Columbia,1830
+40,C,Connecticut,1830
+40,C,New York ,1830
+40,C,Maine,1830
+40,C,Pennsylvania,1830
+40,C,New Jersey,1830
+40,C,Louisiana,1818
+40,C,Virginia,1830
+40,C,South Carolina,1830
+40,D,New Orleans,
+41,A,Germany,1858-1925
+41,A,Italy,
+41,A,Venice,
+41,A,Germany,
+41,A,,
+41,C,France,
+41,C,France,
+41,C,France,
+41,D,Georgia,1892
+41,D,Georgia,1892
+42,A,"Johannesburg, South Africa",
+42,A,New York ,
+42,A,South Africa,
+42,A,South Africa,
+42,A,U.S.,
+42,A,South Africa,
+42,D,New York City,
+42,D,New York City,
+42,D,New York City,
+42,D,New York City,1959
+42,C,,1861
+42,C,,1846
+42,C,Brooklyn,
+43,A,Palestine,
+43,A,Egypt,
+43,C,Kentucky,
+43,D,America,
+43,D,Germany,
+43,D,Los Angeles,
+43,D,New York City,
+44,A,"Holly Springs, Miss…",1848
+44,A,,1896
+44,B,,"Jan, 1862"
+44,B,Springfield Ill.,"Aug, 1863"
+44,B,,
+44,D,,4th Century
+44,D,,4th Century
+44,D,,
+45,A,"IFE, Nigeria",800-1300 A.D.
+45,A,,
+45,A,,
+45,D,,1925
+45,D,,
+45,C,Virginia,1806-1863
+45,C,Virginia,1850
+45,C,Virginia,
+45,C,,
+46,A,,
+46,A,Africa,
+46,A,South Africa,
+46,A,South Africa,
+46,A,Lake Victoria,
+46,A,South Africa,"40, 000"
+46,A,Lake Victoria,"40,000"
+46,C,,
+46,C,North,Civil War
+46,C,South ,Civil War
+46,C,Boston,Civil War
+46,C,New York,Civil War
+46,C,Philadelphia,Civil War
+46,C,,
+46,D,New York,1884
+47,A,,
+47,A,Ancient Mexico,100 A.D.
+47,A,America,
+47,C,,
+47,C,"Jamacia, West Indies",
+47,C,Nicaragua,1870
+47,C,"Port Royal, Jamacia",1870
+47,C,"Jamacia, West Indies",1848
+48,A,,
+48,A,Ethiopia,
+48,A,Ethiopia,
+48,A,Italy,1896
+48,A,,1935-36
+48,C,,
+48,C,Dhlo-Dhlo,1903
+48,C,Mundie,
+48,C,M'bopoti,
+48,C,Zymbabwe,
+48,D,,
+48,D,Syria,
+48,D,Palestine,
+48,D,Turks,
+49,A,,
+48,D,Babylon,
+49,A,Ft. Wagner,"July 18, 1863"
+49,A,"Chapin's Farm, VA","Sept. 29, 1864"
+49,C,,
+49,C,,
+49,C,Massachusetts,1786
+49,C,,1777
+49,D,,
+49,D,,
+49,D,"Muddy Hole, VA",
+49,D,"Muddy Hole, VA",
+50,A,,
+50,A,Northwestern University,1954
+50,A,,
+50,D,,
+50,D,Europe,1910s-1920s
+50,D,France,1911
+50,C,,
+50,C,Maryland,1633
+50,C,England,
+50,C,"Barbados, West Indies",
+50,C,ChesapeakeBay,
+51,A,,
+51,A,"Grand Gulf, Mississippi",1844
+51,A,Washington,1887
+51,A,,
+51,D,,
+51,D,English Channel,"August, 22 1950"
+51,D,Nile Estuary,1939
+51,C,,
+51,C,,
+51,C,England,
+51,C,,
+52,A,,
+52,A,"Boston, Mass",1863
+52,A,,
+52,C,,
+52,C,Mosque at Mecca,600 AD
+52,C,,
+52,C,,1861-1930
+52,D,,
+52,D,Virginia,84 years
+52,D,Virginia,1526
+52,D,Virginia,1607
+53,A,,
+53,A,Wayne Univ.,
+53,A,Italy,
+53,A,USA,
+53,D,,
+53,D,Tennessee,1856
+53,D,,1883-1886
+53,D,,1892
+53,D,,1900
+53,D,"Memphis, Tennessee",
+53,C,,
+53,C,,1915
+53,C,,1879 and 1876
+53,C,,
+54,A,,
+54,A,New Jersey,1821-1902?
+54,A,Philadelphia,
+54,A,Canada,
+54,A,,
+54,A,,1871
+54,C,,
+54,C,"Dahomey, Africa",
+54,D,,
+54,D,,1351 B.C.
+55,A,,
+55,A,South America,
+55,A,Andes,
+55,A,Latin America,
+55,A,America,
+55,A,India,
+55,C,,
+55,C,"Boston, Mass.",1703
+55,D,,
+55,D,Central Africa,
+55,D,Rhodesia,
+55,D, Upper Egypt,4000 B.C.
+56,A,,
+56,A,West Africa,
+56,A,"Livingstone College, N. C",
+56,A,Columbia University,
+56,A,Africa,
+56,A,Nigeria,
+56,A,Cameroons,
+56,A,Belgian Cong,
+56,A,Ethiopia,
+56,A,South Africa,
+56,A,Uganda,
+56,C,,
+56,C,,1922
+56,C,,1923
+56,D,,
+56,D,,1732-1786
+57,A,,
+57,A,,
+57,A,,
+57,A,,
+57,A,Tuskegee,
+57,A,South Africa,
+57,A,U.S.,
+57,A,"Bucks County, PA",
+57,A,,
+57,C,,
+57,C,Kuwait,
+57,C,Arabia,
+57,D,,
+57,D,Texas,
+57,D,,
+58,A,,
+58,A,Georgia,1855
+58,A,New York,
+58,A,Paris,
+58,A,France,
+58,A,"Globe Theatre, N.Y. ",
+58,C,,
+58,C,,
+58,C,,
+58,D,,
+58,D,"Atlanta, GA.",
+59,A,,
+59,A,,
+59,C,,
+59,C,,1875 to 1910
+60,A,,
+60,A,,4th Century
+60,A,,373-397 A.D.
+60,A,Southern China,
+60,A,China,
+60,D,,
+60,D,Ehtiopia,937-977 A.D.
+60,C,,
+60,C,Richmond The Confederate Capital,April 1864
+61,B,,
+61,B,Europe,1855
+61,B,Paris,
+61,B,,
+61,B,,
+61,B,,
+61,B,,
+61,B,,
+61,A,,
+61,A,,1859-1929
+61,A,,1883
+61,A,"Washington, D.C.",
+61,A,Chicago,
+61,A,Chicago,
+61,A,,1903
+61,A,St. Louis,1898
+61,D,,
+61,D,Northern Brazil,
+62,A,,1837-1915?
+62,A,Maryland,
+62,A,Italy,1879
+62,A,France,1879
+62,A,India,1879
+62,A,Egypt,1879
+62,A, Liberia,
+62,A,Sierra Leone,
+62,A,Gold Coast,
+62,A,England,
+62,A,Chicago,1890
+62,C,London,1951
+62,C,,
+62,D,Belgian Academy,
+62,D,France ,1909
+62,D,Europe ,"5,000 years ago"
+62,D,"Paris, France",
+63,A,Virginia,
+63,A,,
+63,A,,
+63,D,West Africa,
+63,C,Brazil,1519
+63,C,,1519
+64,A,,1683
+64,A,,
+64,D,,
+64,C,,300 B.C.
+64,C,,
+64,C,,Byzantine period
+65,A,,?1818-1907?
+65,A,,
+65,A,,
+65,A,Washington,
+65,A,,1868
+65,A,"Wilbeforce, Ohio", taught domestic science
+65,C,Spain,?1734-1770 
+65,D,Lake Erie,
+65,D,Lake Ontario,
+65,D,Slabtown,"July 12, 1849"
+66,A,Dahomey,1831-1906?
+66,A,France,1894
+66,A,Paris,
+66,B,New York,1821
+66,D,Ancient Egypt ,430 years
+67,A,Philadelpiha,?1848-1919
+67,A,,
+67,A,Philadelphia,1876
+67,A,New England,
+67,A,Philadelphia,
+67,C,Ancient Greece,
+67,C,,
+67,C,,
+67,D,Hoggar,"15,000 years"
+67,D,Sahara Desert,"15,000 years"
+67,D,Africa,"15,000 years"
+67,D,South Africa,
+67,D,France ,
+67,D,Spain,
+67,D,Europe ,
+68,A,Villiers-Cotter-Et,
+68,A,"Paris, France",1941
+68,C,North Carolina,1961
+68,D,Ghana,4th to the 13th century A.D.
+69,A,Venice,?1725 - 1798?
+69,A,,
+69,A,,
+69,D,"Chelsea, Mass. ",?1864- 1927?
+69,C,Haiti,1806-1868
+69,C,,
+69,C,Illinois,
+69,C,Springfield ,
+70,A,West Africa,1937
+70,A,Nupe,Middle Ages
+70,A,Ghana,Middle Ages
+70,A,Ife,Middle Ages
+70,A,Songhay,Middle Ages
+70,C,Rome,?146-211 A.D.?
+70,C,Niger,
+70,C,Britain,
+70,C,River Niger,
+70,C,West Africa,
+70,D,Egypt ,1881
+70,D,Alexandria,
+70,D,El-El-Kebir,"Sept. 13, 1882"
+71,A,Colorado,1820
+71,A,The Rockies ,
+71,A,The Sierras,
+71,A,California,
+71,A,Denver,
+71,A,Pueblo,
+71,A,Colorado,
+71,D,Connecticut,
+71,D,Central America,
+71,D,Massachusetts,
+71,D,New England states,
+71,D,,1769-1859
+71,D,,
+71,C,New York City,1703
+72,A,India,1365 B.C.
+72,A,India, 6th century B.C.
+72,C,"New Orleans, LA.",
+72,D,Africa,
+73,A,Europe,
+73,A,Europe,
+73,A,Europe,
+73,A,Europe,
+73,A,Europe,
+73,D,"Portuguese, East Africa",
+73,D,Asia,2001 years ago
+73,C,Africa,
+73,C,Islands of the Pacific,
+73,C,Borney,
+74,A,"Hoggar, Southern Algeria",thousands of years older
+74,A,"Sahara, Africa",
+74,A,Rome,
+74,A,Spain,
+74,A,Portugal,
+74,A,Egypt ,thousands of years older
+74,D,Ethiopia,660 to 250 B.C.
+74,D,,58-80 A.D.
+74,D,,58-80 A.D.
+74,D,Jerusalem,58-80 A.D.
+74,D,,58-80 A.D.
+74,C,"Mobile, Alabama",
+74,C,Africa,
+74,C,America,1937
+74,C,America,1808
+74,C,America,1861
+75,A,Massachusetts,
+75,A,"Washington, D. C.",
+75,A,Boston,
+75,A,Italy ,
+75,A,Massachusetts,1964
+75,C,"Caucasus, Southern Russia",2300 years
+75,C,Germany,
+75,D,Egypt ,
+76,A,Central Africa,18th century
+76,A,England ,19th century
+76,A,Belgium ,20th century
+76,B,Brazil,
+76,B,Africa,
+76,B,Quatro Vintens,1714
+76,B,Villa Nova Do Principe,1714
+76,B,Brazil,
+76,C,New Orleans,1862
+77,A,Jamacia,
+77,A,London,1947
+77,A,Geneva,1947
+77,A,Havana,1947
+77,A,,1948
+77,C," Lima, Peru",
+77,C,Spain,
+77,D,,"30,000 years ago"
+77,D,Central Sahara,1938
+78,A,Egypt,600 B.C.
+78,A,Kingdom of Osiris,
+78,A,Britain,
+78,A,"Cairo, Egypt",
+78,D,,?1815-1887
+78,D,Ft. Wagner,1863
+78,D,Honey Hill,1863
+78,D,Charleston,1863
+78,D,Olustee,1863
+78,D,Savannah,1863
+78,C,Ancient Rome,
+79,A,Africa,
+79,A,Egypt ,
+79,A,Europe,
+79,A,Central Africa,
+79,A,"Ishang, Belgian Congo",8000 years
+79,C,Paris,"Aug. 12, 1790"
+79,C,Paris,"Aug. 12, 1791"
+79,D,London ,1850’s
+79,D,London ,1870
+80,A,"Zimbabwe, South Africa",
+80,C,New Amsterdam ,"May 5, 1641"
+80,C,New Amsterdam ,"May 5, 1642"
+80,C,West Indies,
+80,C,New York,
+80,D,North Africa,
+80,D,Phoenecia,850 B.C.
+80,D,Spain ,
+80,D,Rome,13 years
+81,A,France,1824-1904
+81,A,Anglo-Egyptian Sudan ,
+81,A,Sudan,1885
+81,C,America,
+81,C,America,
+81,C,Confederate states,
+82,A,Ancient Eurpoe,
+82,A,Africa,
+82,A,"Quirnal, Rome",
+82,D,USA,1865
+82,D,Russia,1861
+82,C,Ethiopia,1894
+82,C,Italy,
+82,C, Adowa ,"March 1, 1896"
+83,A,Benin,12th century
+83,C,"Dominica, BWI",1958
+83,C,London,
+83,D,New World,1502-1886
+83,D,U.S.A.,
+83,D,New York ,1808
+83,D,"Polk City, FLA",
+84,A,Phillipine,
+84,A,Southern India,
+84,A,Siam,
+84,A,New Guinea,
+84,A,Andaman Islands,
+84,C,Sudan,
+84,C,Sudan,1896
+85,A,"Tuskegee, Alabama",1948
+85,C,United States,
+85,D,Boston,"Jan. 1, 1776"
+86,A,,
+86,A,Egypt,earliest centuries B.C.
+86,A,Egypt,
+86,C,Sierra Leone,1860
+86,C,Sierra Leone,1921
+86,D,Egypt,
+87,A,,1875-1910?
+87,C,,
+87,C,"St. Simon’s Island, GA.",
+87,D,"Brownsville, Texas","May 13, 1865"
+88,A,,
+88,C,Washington,
+88,C,Utah,1877
+88,C,Montana,
+88,C,Maryland,1755
+89,A,Virginia,
+89,A,,
+89,A," Petersburg, VA",
+89,C,San Francisco,1915
+89,C,Missouri ,
+89,D,,1870
+90,A,"Ife, Nigeria, West Africa",800 A.D.
+90,A,"Ife, Nigeria, West Africa","25,000 B.C."
+90,C,Texas,
+90,B,,1890
+90,B,S. Carolina,1890
+90,B,Louisiana,1890
+90,B,Mississippi,1890
+91,A,Virginia,1841
+91,A,,1868
+91,A,,1870
+91,A,,1870
+91,A,,1881
+91,D,Germany,
+91,D,England,
+91,D,Boston,
+91,D,Massachusetts,
+91,D,"Allentown, PA",
+91,C,Maryland ,1818
+91,C,Maryland ,1704
+91,C,Pennsylvania,
+92,A,,?1850-1901?
+92,C,"Alba, Italy",
+92,C,"Alba, Italy",
+92,D,,
+92,D,G.A.,
+92,D,Buffalo,"September 6th, 1901"
+92,D,,
+93,A,West Indies ,
+93,A,,
+93,A,,
+93,A,,
+93,C,U.S. ,1905 to 1913
+93,D,Kentucky,
+93,D,Tennessee,
+93,D,,1799
+93,D,"Harpe’s head, KY ",
+94,A,Africa,
+94,A,,1714-99
+94,C,North Africa,624 BC
+94,C,North Africa,624 BC
+94,C,"Cyrene, North Africa",founded 624 BC
+94,C,,19th century
+94,C,,
+95,A,,XVI Century 
+95,A,Italy,XVI Century 
+95,A,Florence,XVI Century 
+95,C,Cuba,1858-1909
+95,C,Cuba and America,
+95,D,"Southern Sahara, Africa",1938
+96,A,Mississippi,
+96,A,,
+96,A,,
+96,A,,
+96,A,,
+96,A,,
+96,A,,
+97,A,Washington D.C,1834
+97,A,Maine,
+97,A,Alaska,
+97,B,"Sesebi, Egypt",1350 B.C.
+97,B,Greece,
+97,B,Palestine,
+97,B,Syria,
+98,A,New York,1815-1881
+98,C,England,1521
+98,C,Naples,
+98,C,Rome,
+98,D,"Prince William Co., VA",1794
+99,A,"Paris, France",1967
+99,A,,
+99,A,,
+99,A,,
+99,A,,
+99,A,,
+99,C,Tristan Da Cunha,1827
+99,C,Tristan Da Cunha,1827
+99,C,Tristan Da Cunha,1967
