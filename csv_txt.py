@@ -6,10 +6,9 @@ with open(r'CSV_Progress.csv') as f:
         #column names
         md.write("dcterms:title,dcterms:date,dcterms:spacial")
 
-        #skips first line in CSV
-        next(f)
-
-        for line in f:
+        csvreader = csv.reader(f, delimiter=',')
+        next(csvreader)
+        for line in csvreader:
             md.write("\n")
             newrow = "FN-" + line[0] + line[1] + "," + line[2] + "," + line[3]
             md.write(newrow)
