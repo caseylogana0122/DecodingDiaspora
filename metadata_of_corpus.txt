@@ -1,0 +1,1 @@
+dcterms:title,dcterms:spatial,dcterms:date
