@@ -1,4 +1,4 @@
-dcterms:title,dcterms:date,dcterms:spatial
+dcterms:title,dcterms:date,dcterms:spacial
 FN-1A,San Souci, Haiti, 
 FN-1A,,
 FN-1A,San Souci, Haiti,
