@@ -588,7 +588,7 @@ Page,Segment ID,Place Name,Dates
 43,D,Germany,
 43,D,Los Angeles,
 43,D,New York City,
-44,A,"Holly Springs, Miss…",1848
+44,A,"Holly Springs, Missï¿½",1848
 44,A,,1896
 44,B,,"Jan, 1862"
 44,B,Springfield Ill.,"Aug, 1863"
@@ -968,7 +968,7 @@ Page,Segment ID,Place Name,Dates
 79,A,"Ishang, Belgian Congo",8000 years
 79,C,Paris,"Aug. 12, 1790"
 79,C,Paris,"Aug. 12, 1791"
-79,D,London ,1850’s
+79,D,London ,1850ï¿½s
 79,D,London ,1870
 80,A,"Zimbabwe, South Africa",
 80,C,New Amsterdam ,"May 5, 1641"
@@ -1018,7 +1018,7 @@ Page,Segment ID,Place Name,Dates
 86,D,Egypt,
 87,A,,1875-1910?
 87,C,,
-87,C,"St. Simon’s Island, GA.",
+87,C,"St. Simonï¿½s Island, GA.",
 87,D,"Brownsville, Texas","May 13, 1865"
 88,A,,
 88,C,Washington,
@@ -1066,7 +1066,7 @@ Page,Segment ID,Place Name,Dates
 93,D,Kentucky,
 93,D,Tennessee,
 93,D,,1799
-93,D,"Harpe’s head, KY ",
+93,D,"Harpeï¿½s head, KY ",
 94,A,Africa,
 94,A,,1714-99
 94,C,North Africa,624 BC
