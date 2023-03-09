@@ -1,5 +1,9 @@
 dcterms:title,dcterms:date,dcterms:spatial
+<<<<<<< HEAD
 FN-1A,"San Souci, Haiti", 
+=======
+FN-1A,San Souci, Haiti, 
+>>>>>>> 411fb3e3acbf7a240211f2103cc47e37026afe8d
 FN-1A,,
 FN-1A,"San Souci, Haiti",
 FN-1A,"San Souci, Haiti",
