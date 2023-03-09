@@ -10,7 +10,10 @@ with open(r'CSV_Progress.csv') as f:
         next(csvreader)
         for line in csvreader:
             md.write("\n")
-            newrow = "FN-" + line[0] + line[1] + "," + line[2] + "," + line[3]
+            if line[2] != "":
+                newrow = "FN-" + line[0] + line[1] + "," + "\"" + line[2] +  "\"" + "," + line[3]
+            else:
+                newrow = "FN-" + line[0] + line[1] + ","  + line[2] +  "," + line[3]
             md.write(newrow)
     md.close()
 f.close()

@@ -1,123 +1,123 @@
-dcterms:title,dcterms:date,dcterms:spacial
-FN-1A,San Souci, Haiti, 
+dcterms:title,dcterms:date,dcterms:spatial
+FN-1A,"San Souci, Haiti", 
 FN-1A,,
-FN-1A,San Souci, Haiti,
-FN-1A,San Souci, Haiti,
-FN-1A,San Souci, Haiti,
+FN-1A,"San Souci, Haiti",
+FN-1A,"San Souci, Haiti",
+FN-1A,"San Souci, Haiti",
 FN-1A,,
-FN-1B,Nevis, West Indies,
-FN-1B,England,
+FN-1B,"Nevis, West Indies",
+FN-1B,"England",
 FN-1B,,
-FN-1C,South Africa,1949
-FN-1C,South Africa,1949
-FN-1C,South Africa,1949
+FN-1C,"South Africa",1949
+FN-1C,"South Africa",1949
+FN-1C,"South Africa",1949
 FN-1C,,
-FN-2A,Galveston, Texas,1978
+FN-2A,"Galveston, Texas",1978
 FN-2A,,1924
-FN-2A,N. Carolina,1945
-FN-2A,Australia,
+FN-2A,"N. Carolina",1945
+FN-2A,"Australia",
 FN-2A,,
-FN-2A,Havana, Cuba,1915
+FN-2A,"Havana, Cuba",1915
 FN-2A,,
-FN-2B,Newark, N.J., 
-FN-2B,Russia,
+FN-2B,"Newark, N.J.", 
+FN-2B,"Russia",
 FN-2B,,
-FN-2C,Girard, Kansas,
+FN-2C,"Girard, Kansas",
 FN-2C,,
 FN-2C,,
-FN-3A,Adowa, Ethiopia,1896
-FN-3A,Spain,
-FN-3A,Italy,
+FN-3A,"Adowa, Ethiopia",1896
+FN-3A,"Spain",
+FN-3A,"Italy",
 FN-3A,,
 FN-3A,,
-FN-3A,Southern France,
-FN-3A,Europe,1896
+FN-3A,"Southern France",
+FN-3A,"Europe",1896
 FN-3A,,
-FN-3B,Louisville, KY,1859
-FN-3B,Kaw Valley, Kans,
+FN-3B,"Louisville, KY",1859
+FN-3B,"Kaw Valley, Kans",
 FN-3B,,
 FN-3B,,
-FN-3C,Cuba,1852-1911
-FN-3C,Paris,
-FN-3C,The Conservatory,
-FN-3C,Leading European Cities,
+FN-3C,"Cuba",1852-1911
+FN-3C,"Paris",
+FN-3C,"The Conservatory",
+FN-3C,"Leading European Cities",
 FN-3C,,
-FN-3C,Germany,
+FN-3C,"Germany",
 FN-3C,,
-FN-4A,Ghana, 
-FN-4A,Africa,
-FN-4A,Cambridge Univ.,
-FN-4A,Oxford,
-FN-4A,London, England,
-FN-4A,University College, Ghana,
-FN-4A,Ghana,
-FN-4A,Liberia,
-FN-4A,Sierra Leone,
+FN-4A,"Ghana", 
+FN-4A,"Africa",
+FN-4A,"Cambridge Univ.",
+FN-4A,"Oxford",
+FN-4A,"London, England",
+FN-4A,"University College, Ghana",
+FN-4A,"Ghana",
+FN-4A,"Liberia",
+FN-4A,"Sierra Leone",
 FN-4A,,1946
 FN-4A,,
 FN-4A,,
 FN-4A,,
-FN-4A,The Congo,
+FN-4A,"The Congo",
 FN-4A,,
-FN-4D,United States,1829
+FN-4D,"United States",1829
 FN-4D,,
 FN-4D,,
-FN-4C,Kentucky,1872
-FN-4C,The State Mansion,36 years
+FN-4C,"Kentucky",1872
+FN-4C,"The State Mansion",36 years
 FN-4C,,
 FN-4C,,
 FN-4C,,
-FN-5A,Morocco,1870s and 80s
-FN-5A,Morocco,
+FN-5A,"Morocco",1870s and 80s
+FN-5A,"Morocco",
 FN-5A,,
-FN-5A,Morocco,
-FN-5A,Morocco,
-FN-5A,Morocco,
+FN-5A,"Morocco",
+FN-5A,"Morocco",
+FN-5A,"Morocco",
 FN-5A,,
-FN-5C,Haiti,
-FN-5C,Haiti,
-FN-5C,Haiti,
-FN-5C,Haiti,
+FN-5C,"Haiti",
+FN-5C,"Haiti",
+FN-5C,"Haiti",
+FN-5C,"Haiti",
 FN-5C,,
 FN-5D,,
-FN-5D,Fresno, California, 
+FN-5D,"Fresno, California", 
 FN-5D,,
 FN-5D,,
-FN-6A,Mound Bayou, Miss.,1847
-FN-6A,Mound Bayou, Miss.,1887
-FN-6A,Mound Bayou, Miss.,1887
+FN-6A,"Mound Bayou, Miss.",1847
+FN-6A,"Mound Bayou, Miss.",1887
+FN-6A,"Mound Bayou, Miss.",1887
 FN-6A,,
 FN-6A,,
-FN-6C,Mound Bayou, Miss.,July 17, 1887
-FN-6C,Mound Bayou, Miss.,
-FN-6C,Mound Bayou, Miss.,
+FN-6C,"Mound Bayou, Miss.",July 17, 1887
+FN-6C,"Mound Bayou, Miss.",
+FN-6C,"Mound Bayou, Miss.",
 FN-6C,,
 FN-6C,,1890
 FN-6C,,
 FN-6C,,
-FN-6D,France,
-FN-6D,France,
+FN-6D,"France",
+FN-6D,"France",
 FN-6D,,
-FN-6D,Africa,1504
-FN-6D,Africa,1504
-FN-6D,Scotland,1504
-FN-6D,Scotland,
-FN-6D,Edinburgh, Scotland,June 1507
+FN-6D,"Africa",1504
+FN-6D,"Africa",1504
+FN-6D,"Scotland",1504
+FN-6D,"Scotland",
+FN-6D,"Edinburgh, Scotland",June 1507
 FN-6D,,
-FN-7A,Tunis,1533
-FN-7A,North Africa,
-FN-7A,England,
-FN-7A,Ireland,
-FN-7A,Sallee (Morocco),
-FN-7A,Algiers,
-FN-7A,Tunis,
-FN-7A,Constantinople,
+FN-7A,"Tunis",1533
+FN-7A,"North Africa",
+FN-7A,"England",
+FN-7A,"Ireland",
+FN-7A,"Sallee (Morocco)",
+FN-7A,"Algiers",
+FN-7A,"Tunis",
+FN-7A,"Constantinople",
 FN-7A,,1800
-FN-7A,The United States,
-FN-7A,Atlantic,
-FN-7A,Mediterranean,
+FN-7A,"The United States",
+FN-7A,"Atlantic",
+FN-7A,"Mediterranean",
 FN-7A,,
-FN-7C,St. Augustine, Fla, 
+FN-7C,"St. Augustine, Fla", 
 FN-7C,,
 FN-7D,,1884
 FN-7D,,1885
@@ -126,213 +126,213 @@ FN-7D,,1888
 FN-7D,,
 FN-7D,,
 FN-7D,,
-FN-7D,Church Hill Downs,
+FN-7D,"Church Hill Downs",
 FN-7D,,
-FN-7D,Church Hill Downs,
+FN-7D,"Church Hill Downs",
 FN-7D,,
 FN-7D,,
-FN-8A,Persia,2300 B.C.
-FN-8A,Babylon,
-FN-8A,Assyria,
+FN-8A,"Persia",2300 B.C.
+FN-8A,"Babylon",
+FN-8A,"Assyria",
 FN-8A,,
 FN-8A,,
-FN-8A,Susa,
+FN-8A,"Susa",
 FN-8A,,
 FN-8A,,
 FN-8A,,
 FN-8A,,
-FN-8A,Susa,
-FN-8C,U.S.,1869
-FN-8C,U.S., 
-FN-8C,Philadelphia, 
-FN-8C,Columbia, 
-FN-8C,S.C., 
-FN-8C,Washington D.C., 
+FN-8A,"Susa",
+FN-8C,"U.S.",1869
+FN-8C,"U.S.", 
+FN-8C,"Philadelphia", 
+FN-8C,"Columbia", 
+FN-8C,"S.C.", 
+FN-8C,"Washington D.C.", 
 FN-8C,,
-FN-8D,Africa, 
-FN-8D,Southern Morocco,
-FN-8D,Southern Morocco,
-FN-8D,Southern Morocco,
-FN-8D,Southern Morocco,
+FN-8D,"Africa", 
+FN-8D,"Southern Morocco",
+FN-8D,"Southern Morocco",
+FN-8D,"Southern Morocco",
+FN-8D,"Southern Morocco",
 FN-8D,,
-FN-9A,Nigeria,1958
-FN-9A,London University, England,
+FN-9A,"Nigeria",1958
+FN-9A,"London University, England",
 FN-9A,,
 FN-9A,,
 FN-9A,,
-FN-9D,France,
-FN-9D,Sudan,
-FN-9D,Sudan,
+FN-9D,"France",
+FN-9D,"Sudan",
+FN-9D,"Sudan",
 FN-9D,,
 FN-9D,,
-FN-9C,South Africa,1765-1835
-FN-9C,South Africa,
-FN-9C,South Africa,
-FN-9C,Kok-Stad, Griqualand,1867
-FN-9C,Kok-Stad, Griqualand,
-FN-9C,Kok-Stad, Griqualand,
+FN-9C,"South Africa",1765-1835
+FN-9C,"South Africa",
+FN-9C,"South Africa",
+FN-9C,"Kok-Stad, Griqualand",1867
+FN-9C,"Kok-Stad, Griqualand",
+FN-9C,"Kok-Stad, Griqualand",
 FN-9C,,
-FN-10A,Brighton, England,18th Century
-FN-10A,Brighton, England,18th Century
+FN-10A,"Brighton, England",18th Century
+FN-10A,"Brighton, England",18th Century
 FN-10A,,
-FN-10B,Central Sahara, Africa,1935
-FN-10B,Kahalari Desert, South Africa,
-FN-10B,Ancient Egypt,
-FN-10B,Ancient Egypt,
+FN-10B,"Central Sahara, Africa",1935
+FN-10B,"Kahalari Desert, South Africa",
+FN-10B,"Ancient Egypt",
+FN-10B,"Ancient Egypt",
 FN-10B,,
-FN-10C,Timbuctoo,late 17th Century
-FN-10C,Timbuctoo,
-FN-10C,Timbuctoo, 
-FN-10C,The Niger,late 17th Century
+FN-10C,"Timbuctoo",late 17th Century
+FN-10C,"Timbuctoo",
+FN-10C,"Timbuctoo", 
+FN-10C,"The Niger",late 17th Century
 FN-10C,,
-FN-11A,The Gold Coast,
-FN-11A,Geneva,1956
+FN-11A,"The Gold Coast",
+FN-11A,"Geneva",1956
 FN-11A,,
-FN-11D,American Colonies,
-FN-11D,American Colonies,
-FN-11D,American Colonies,
-FN-11D,American Colonies,
-FN-11D,American Colonies,
-FN-11D,American Colonies,
-FN-11D,American Colonies,
-FN-11D,American Colonies,
-FN-11D,Niger,
-FN-11D,Ancient Rome,
-FN-11D,Europe,
-FN-11D,Europe,
+FN-11D,"American Colonies",
+FN-11D,"American Colonies",
+FN-11D,"American Colonies",
+FN-11D,"American Colonies",
+FN-11D,"American Colonies",
+FN-11D,"American Colonies",
+FN-11D,"American Colonies",
+FN-11D,"American Colonies",
+FN-11D,"Niger",
+FN-11D,"Ancient Rome",
+FN-11D,"Europe",
+FN-11D,"Europe",
 FN-11D,,
-FN-11C,New York City,1825
-FN-11C,Europe,
-FN-11C,America,
-FN-11C,France,
-FN-11C,France,
-FN-11C,France,
-FN-11C,Russia,
-FN-11C,America ,1851
+FN-11C,"New York City",1825
+FN-11C,"Europe",
+FN-11C,"America",
+FN-11C,"France",
+FN-11C,"France",
+FN-11C,"France",
+FN-11C,"Russia",
+FN-11C,"America ",1851
 FN-11C,,
 FN-11C,,
 FN-11C,,
 FN-11C,,
 FN-12A,,1836
-FN-12A,New York ,
-FN-12A,China,
-FN-12A,France,
-FN-12A,Japan,
-FN-12A,Italy,
-FN-12A,Mexico,
-FN-12A,Nashville, Tenessee,
-FN-12A,The Southern Exposition,
+FN-12A,"New York ",
+FN-12A,"China",
+FN-12A,"France",
+FN-12A,"Japan",
+FN-12A,"Italy",
+FN-12A,"Mexico",
+FN-12A,"Nashville, Tenessee",
+FN-12A,"The Southern Exposition",
 FN-12A,,The Civil War
 FN-12A,,
-FN-12C,New Haven, Connecticut,1833-1938
+FN-12C,"New Haven, Connecticut",1833-1938
 FN-12C,,
 FN-12C,,1863
-FN-12C,Des Moines, Iowa,
+FN-12C,"Des Moines, Iowa",
 FN-12C,,
 FN-12C,,
 FN-12D,,
 FN-12D,,
 FN-12D,,
 FN-12D,,
-FN-13A,New Orleans,April 6, 1893
+FN-13A,"New Orleans",April 6, 1893
 FN-13A,,
-FN-13A,New Orleans,April 6, 1893
+FN-13A,"New Orleans",April 6, 1893
 FN-13A,,
 FN-13A,,
 FN-13C,,
 FN-13C,,
-FN-13C,Virginia,
+FN-13C,"Virginia",
 FN-13C,,
-FN-14A,Ethiopia,
-FN-14A,England,
-FN-14A,Rugby, England, 
-FN-14A,Magdala, Ethiopia,1867
-FN-14A,The Royal Chapel at Windsor,1876
+FN-14A,"Ethiopia",
+FN-14A,"England",
+FN-14A,"Rugby, England", 
+FN-14A,"Magdala, Ethiopia",1867
+FN-14A,"The Royal Chapel at Windsor",1876
 FN-14A,,
-FN-14C,W. Indies,1686
-FN-14C,Philadelphia,
+FN-14C,"W. Indies",1686
+FN-14C,"Philadelphia",
 FN-14C,,
 FN-14C,,
 FN-14C,,
 FN-14C,,1804
 FN-14C,,
-FN-14D,Cincinatti, Ohio,1850s
+FN-14D,"Cincinatti, Ohio",1850s
 FN-14D,,
-FN-14D,Cincinatti, Ohio,
-FN-14D,Cincinatti, Ohio,
-FN-14D,Virginia,
+FN-14D,"Cincinatti, Ohio",
+FN-14D,"Cincinatti, Ohio",
+FN-14D,"Virginia",
 FN-14D,,
-FN-15A,Natchez,
+FN-15A,"Natchez",
 FN-15A,,
 FN-15A,,
-FN-15A,New Orleans,
+FN-15A,"New Orleans",
 FN-15A,,
 FN-15A,,
 FN-15A,,
 FN-15A,,
-FN-15C,The Mother Lodge Leeds, England,
-FN-15C,United States,
+FN-15C,"The Mother Lodge Leeds, England",
+FN-15C,"United States",
 FN-15C,,1852
 FN-15C,,1843
 FN-15C,,1843
 FN-15C,,1843
 FN-15C,,
 FN-15D,,1917
-FN-15D,America,Before the Civil War
-FN-15D,America,Before the Civil War
+FN-15D,"America",Before the Civil War
+FN-15D,"America",Before the Civil War
 FN-15D,,
 FN-15D,,
-FN-16A,Gaboon,
-FN-16A,Gaboon,1849
+FN-16A,"Gaboon",
+FN-16A,"Gaboon",1849
 FN-16A,,1876
 FN-16A,,
 FN-16A,,
-FN-16C,America,1890
-FN-16C,America,
-FN-16C,America,May 11, 1889
+FN-16C,"America",1890
+FN-16C,"America",
+FN-16C,"America",May 11, 1889
 FN-16C,,
-FN-17A,Morocco,
+FN-17A,"Morocco",
 FN-17A,,
-FN-17C,Egypt,1500 B.C.
-FN-17C,Southern Palestine,
-FN-17C,Grant Parrish, Louisiana,April 13, 1873
-FN-17C,Grant Parrish, Louisiana,
-FN-18A,Ethiopia,
-FN-18A,Egypt,
+FN-17C,"Egypt",1500 B.C.
+FN-17C,"Southern Palestine",
+FN-17C,"Grant Parrish, Louisiana",April 13, 1873
+FN-17C,"Grant Parrish, Louisiana",
+FN-18A,"Ethiopia",
+FN-18A,"Egypt",
 FN-18A,,
 FN-18A,,3730 BC
-FN-18C,Egypt,670 B.C.
-FN-18C,Egypt,8th Century B.C.
-FN-18C,Egypt,
+FN-18C,"Egypt",670 B.C.
+FN-18C,"Egypt",8th Century B.C.
+FN-18C,"Egypt",
 FN-18C,,
-FN-18C,Palestine,
-FN-18C,Assyria,
-FN-18C,Calrsberg,
-FN-18C,Glyptotek,
-FN-18C,Copenhagen,
+FN-18C,"Palestine",
+FN-18C,"Assyria",
+FN-18C,"Calrsberg",
+FN-18C,"Glyptotek",
+FN-18C,"Copenhagen",
 FN-18C,,
-FN-18D,Oregon,Fb. 12, 1985
+FN-18D,"Oregon",Fb. 12, 1985
 FN-18D,,
 FN-19A,,1785-1851
 FN-19A,,
 FN-19A,,
 FN-19A,,
-FN-19D,Uganda, East Africa,
+FN-19D,"Uganda, East Africa",
 FN-19D,,
-FN-19D,Britain,1902
-FN-19C,Southern India,14th Century B.C.
-FN-19C,Asai,14
-FN-19C,Indo-China,14th Century B.C.
+FN-19D,"Britain",1902
+FN-19C,"Southern India",14th Century B.C.
+FN-19C,"Asai",14
+FN-19C,"Indo-China",14th Century B.C.
 FN-19C,,
-FN-20A,Nyassa-Land,1962
+FN-20A,"Nyassa-Land",1962
 FN-20A,,
-FN-20A,Chicago, 
-FN-20A,Edinburgh, Scotland, 
-FN-20A,London, 
+FN-20A,"Chicago", 
+FN-20A,"Edinburgh, Scotland", 
+FN-20A,"London", 
 FN-20A,,
-FN-20C,U.S.,
-FN-20C,U.S.,
-FN-20C,U.S.,
+FN-20C,"U.S.",
+FN-20C,"U.S.",
+FN-20C,"U.S.",
 FN-20C,,
 FN-20C,,
 FN-20D,,1959
@@ -340,400 +340,400 @@ FN-20D,,1959
 FN-20D,,1959
 FN-20D,,1959
 FN-20D,, 
-FN-21A,Ruanda, East Africa, 
+FN-21A,"Ruanda, East Africa", 
 FN-21A,,
-FN-21C,England,1651
+FN-21C,"England",1651
 FN-21C,,
-FN-21C,Wales,1651
-FN-21C,France,1651
-FN-21C,Wales,1651
+FN-21C,"Wales",1651
+FN-21C,"France",1651
+FN-21C,"Wales",1651
 FN-21C,,
-FN-21D,Jerusalem,
-FN-21D,Jerusalem,
-FN-21D,Jerusalem,
+FN-21D,"Jerusalem",
+FN-21D,"Jerusalem",
+FN-21D,"Jerusalem",
 FN-21D,,
-FN-22A,Nigeria, West Africa,
-FN-22A,Britain,
-FN-22A,Edinburgh University,
+FN-22A,"Nigeria, West Africa",
+FN-22A,"Britain",
+FN-22A,"Edinburgh University",
 FN-22A,,
-FN-22A,Britain,1947
-FN-22A,Britain,1947
+FN-22A,"Britain",1947
+FN-22A,"Britain",1947
 FN-22A,,
-FN-22C,Virgin Islands,1848
-FN-22C,Virgin Islands,1848
-FN-22C,St. Croix,1848
+FN-22C,"Virgin Islands",1848
+FN-22C,"Virgin Islands",1848
+FN-22C,"St. Croix",1848
 FN-22C,,
 FN-22D,,1862-1930
-FN-22D,Paris,
-FN-22D,Algeria, 
+FN-22D,"Paris",
+FN-22D,"Algeria", 
 FN-22D,,
-FN-23A,Egypt,1500 B.C.
-FN-23A,Arabia,1500 B.C.
-FN-23A,Ancient East,1500 B.C.
-FN-23A,Sudan,1500 B.C.
-FN-23A,Egyptian Dept. Metropolitan Museum of Art, New York,1500 B.C.
+FN-23A,"Egypt",1500 B.C.
+FN-23A,"Arabia",1500 B.C.
+FN-23A,"Ancient East",1500 B.C.
+FN-23A,"Sudan",1500 B.C.
+FN-23A,"Egyptian Dept. Metropolitan Museum of Art, New York",1500 B.C.
 FN-23A,,
 FN-23A,,
 FN-23D,,
-FN-23D,Philadelphia,
+FN-23D,"Philadelphia",
 FN-23D,,
 FN-23D,,
-FN-23C,Lexington, KY,1926
-FN-23C,Lexington, KY,1926
+FN-23C,"Lexington, KY",1926
+FN-23C,"Lexington, KY",1926
 FN-23D,,
-FN-24A,New York,American Revolution
-FN-24A,New York,American Revolution
-FN-24A,West Indies, 
-FN-24A,Jamaica, 
+FN-24A,"New York",American Revolution
+FN-24A,"New York",American Revolution
+FN-24A,"West Indies", 
+FN-24A,"Jamaica", 
 FN-24A,,
-FN-24C,Ancient Mexico,
-FN-24C,Panama,1513
-FN-24C,Africa, 
-FN-24C,Africa, 
-FN-24C,Ancient Egypt,
-FN-24C,Oceania,
+FN-24C,"Ancient Mexico",
+FN-24C,"Panama",1513
+FN-24C,"Africa", 
+FN-24C,"Africa", 
+FN-24C,"Ancient Egypt",
+FN-24C,"Oceania",
 FN-24C,,
-FN-24D,Tortuga,
-FN-24D,Tortuga,
-FN-24D,Tortuga,
-FN-24D,Tortuga,
-FN-24D,Tortuga,
+FN-24D,"Tortuga",
+FN-24D,"Tortuga",
+FN-24D,"Tortuga",
+FN-24D,"Tortuga",
+FN-24D,"Tortuga",
 FN-24D,,
-FN-25A,Ladies' Island, South Carolina,May 1862
-FN-25A,America,
+FN-25A,"Ladies' Island, South Carolina",May 1862
+FN-25A,"America",
 FN-25A,,
-FN-25B,Washington, D.C.,1867
-FN-25B,Washington, D.C.,1871
-FN-25B,Washington, D.C.,1867
-FN-25C,Africa,1802-1811
-FN-25C,Africa,1802-1811
-FN-25C,Portuguese, W. Africa,1802-1811
-FN-25C,Prtugues, East Africa,1802-1811
-FN-25C,Portuguese, W. Africa,1802-1811
-FN-25C,Portugues, East Africa,1802-1811
-FN-26A,Island of Reunion, East Africa,1865
-FN-26A,Island of Reunion, East Africa,
+FN-25B,"Washington, D.C.",1867
+FN-25B,"Washington, D.C.",1871
+FN-25B,"Washington, D.C.",1867
+FN-25C,"Africa",1802-1811
+FN-25C,"Africa",1802-1811
+FN-25C,"Portuguese, W. Africa",1802-1811
+FN-25C,"Prtugues, East Africa",1802-1811
+FN-25C,"Portuguese, W. Africa",1802-1811
+FN-25C,"Portugues, East Africa",1802-1811
+FN-26A,"Island of Reunion, East Africa",1865
+FN-26A,"Island of Reunion, East Africa",
 FN-26D,,1861
-FN-26D,Ohio,
-FN-26D,America,
-FN-26D,America,
+FN-26D,"Ohio",
+FN-26D,"America",
+FN-26D,"America",
 FN-26D,,
-FN-26C,Tennessee,
-FN-26C,Memphis & Ohio R.R.,1868
+FN-26C,"Tennessee",
+FN-26C,"Memphis & Ohio R.R.",1868
 FN-26C,,
 FN-26C,,
-FN-27A,St. Helena,
-FN-27A,St. Helena,
-FN-27A,Malaya,
-FN-27A,St. Helena,
-FN-27A,San Domingo,
+FN-27A,"St. Helena",
+FN-27A,"St. Helena",
+FN-27A,"Malaya",
+FN-27A,"St. Helena",
+FN-27A,"San Domingo",
 FN-27A,,
-FN-27C,Europe,
-FN-27C,Africa,
+FN-27C,"Europe",
+FN-27C,"Africa",
 FN-27C,,1066 AD
 FN-27C,,
 FN-27C,,
-FN-27D,The Parish of St. John the Baptist, L.A.,1811
-FN-27D,L.A.,
+FN-27D,"The Parish of St. John the Baptist, L.A.",1811
+FN-27D,"L.A.",
 FN-27D,,
-FN-28A,Africa,1808
-FN-28A,New York,
-FN-28A,Denmark,
-FN-28B,Lamorella, Spain,
-FN-28B,Europe,
-FN-28B,Africa,
-FN-28C,Egypt,
-FN-28C,Rhodesia, South Africa,
-FN-29A,Holland,1606-69
-FN-29A,Holland,1606-69
-FN-29A,Belgium,
-FN-29A,Spain,
-FN-29C,The Suez Canal,
-FN-29C,The Panama Canal,
-FN-29C,Egypt(ians),
-FN-29C,Sudan(ese),
-FN-29C,British West Indi(ans),
-FN-29D,Brazil,1767-1830
-FN-30A,Cleveland, Ohio,
-FN-30C,Mexico,
-FN-30D,Tropical Central America,
+FN-28A,"Africa",1808
+FN-28A,"New York",
+FN-28A,"Denmark",
+FN-28B,"Lamorella, Spain",
+FN-28B,"Europe",
+FN-28B,"Africa",
+FN-28C,"Egypt",
+FN-28C,"Rhodesia, South Africa",
+FN-29A,"Holland",1606-69
+FN-29A,"Holland",1606-69
+FN-29A,"Belgium",
+FN-29A,"Spain",
+FN-29C,"The Suez Canal",
+FN-29C,"The Panama Canal",
+FN-29C,"Egypt(ians)",
+FN-29C,"Sudan(ese)",
+FN-29C,"British West Indi(ans)",
+FN-29D,"Brazil",1767-1830
+FN-30A,"Cleveland, Ohio",
+FN-30C,"Mexico",
+FN-30D,"Tropical Central America",
 FN-30D,,
-FN-31A,U.S.,1866-1923
-FN-31A,U.S.,
-FN-31A,Holland,
-FN-31A,Norway,
-FN-31C,St. Croix, Virgin Islands,1848
-FN-31D,New York City,1940-1950
-FN-31D,Chicago,1940-1950
-FN-31D,Detroit,1940-1950
-FN-31D,Charleston, S.C.,1940-1950
-FN-32A,Benin, West Africa,1485
-FN-32C,Ethiopia,
-FN-32C,Ethiopia,
-FN-32D,Arkansas,1960
-FN-32D,Mississippi,1960
-FN-32D,Missouri,1960
-FN-32D,Tennessee,1960
+FN-31A,"U.S.",1866-1923
+FN-31A,"U.S.",
+FN-31A,"Holland",
+FN-31A,"Norway",
+FN-31C,"St. Croix, Virgin Islands",1848
+FN-31D,"New York City",1940-1950
+FN-31D,"Chicago",1940-1950
+FN-31D,"Detroit",1940-1950
+FN-31D,"Charleston, S.C.",1940-1950
+FN-32A,"Benin, West Africa",1485
+FN-32C,"Ethiopia",
+FN-32C,"Ethiopia",
+FN-32D,"Arkansas",1960
+FN-32D,"Mississippi",1960
+FN-32D,"Missouri",1960
+FN-32D,"Tennessee",1960
 FN-32D,,
-FN-33A,Lexington, KY,1814
+FN-33A,"Lexington, KY",1814
 FN-33A,,1934
-FN-33A,Paris,1849
-FN-33A,Europe,1854
+FN-33A,"Paris",1849
+FN-33A,"Europe",1854
 FN-33D,,
 FN-33D,,
 FN-33D,,
 FN-33D,,
 FN-33D,,
-FN-33D,Paris,
-FN-33D,Toulouse,
-FN-33D,Toulouse,
-FN-33D,France,
-FN-33D,France,
-FN-33D,France,
-FN-33D,France,
-FN-33D,France,
-FN-33C,Ethiopia,690 B.C.
-FN-33C,Egypt ,690 B.C.
-FN-33C,Ethiopia,720 B.C.
-FN-33C,Egypt,720 B.C.
-FN-33C,Assyria,
-FN-33C,Palestine,
-FN-33C,Syria,
-FN-33C,Syria,
-FN-34A,Springfield, Illinois,
-FN-34A,Springfield, Illinois,
+FN-33D,"Paris",
+FN-33D,"Toulouse",
+FN-33D,"Toulouse",
+FN-33D,"France",
+FN-33D,"France",
+FN-33D,"France",
+FN-33D,"France",
+FN-33D,"France",
+FN-33C,"Ethiopia",690 B.C.
+FN-33C,"Egypt ",690 B.C.
+FN-33C,"Ethiopia",720 B.C.
+FN-33C,"Egypt",720 B.C.
+FN-33C,"Assyria",
+FN-33C,"Palestine",
+FN-33C,"Syria",
+FN-33C,"Syria",
+FN-34A,"Springfield, Illinois",
+FN-34A,"Springfield, Illinois",
 FN-34A,,
 FN-34D,,1898
-FN-34C,Egypt ,4500 B.C.
-FN-34C,Ethiopia,
-FN-34C,Nubia,
-FN-35A,Egypt ,660 B.C.
-FN-35A,Egypt ,
-FN-35A,Ethiopia,
-FN-35A,Syria,
-FN-35A,Egypt ,
-FN-35A,Britain,
-FN-35D,Albany, New York,1892
-FN-35C,N.Y. City,Dec. 11, 1928
-FN-35C,Philadelphia,Dec. 11, 1928
-FN-35C,London, England,Dec. 11, 1928
+FN-34C,"Egypt ",4500 B.C.
+FN-34C,"Ethiopia",
+FN-34C,"Nubia",
+FN-35A,"Egypt ",660 B.C.
+FN-35A,"Egypt ",
+FN-35A,"Ethiopia",
+FN-35A,"Syria",
+FN-35A,"Egypt ",
+FN-35A,"Britain",
+FN-35D,"Albany, New York",1892
+FN-35C,"N.Y. City",Dec. 11, 1928
+FN-35C,"Philadelphia",Dec. 11, 1928
+FN-35C,"London, England",Dec. 11, 1928
 FN-35C,,
-FN-36A,Benin, West Africa,1500 A.D.
-FN-36C,Annamboe, West Africa,18th Century
-FN-36C,London,18th Century
-FN-37A,Martinique, West Indies,1848
-FN-37A,Paris,1848
-FN-37A,Paris,
+FN-36A,"Benin, West Africa",1500 A.D.
+FN-36C,"Annamboe, West Africa",18th Century
+FN-36C,"London",18th Century
+FN-37A,"Martinique, West Indies",1848
+FN-37A,"Paris",1848
+FN-37A,"Paris",
 FN-37C,,
-FN-37D,New York City,July 1863
+FN-37D,"New York City",July 1863
 FN-38A,,
-FN-38A,Rayville, Alabama,
+FN-38A,"Rayville, Alabama",
 FN-38A,,
-FN-38D,The Philippines,
-FN-38D,Southern Japan,
-FN-38C,Prehistoric South Africa,25,000 to 50,000 B.C.
-FN-38C,Central Russia,
-FN-39A,South Carolina,20th Century
+FN-38D,"The Philippines",
+FN-38D,"Southern Japan",
+FN-38C,"Prehistoric South Africa",25,000 to 50,000 B.C.
+FN-38C,"Central Russia",
+FN-39A,"South Carolina",20th Century
 FN-39A,,20th Century
 FN-39A,,20th Century
 FN-39A,,20th Century
 FN-39A,,20th Century
-FN-39B,Louisiana,1844-1913
+FN-39B,"Louisiana",1844-1913
 FN-39B,,
-FN-39B,Louisiana,1874
-FN-39C,Davidson County, Tenn.,1850
-FN-39C,Davidson County, Tenn.,1865
-FN-40A,Cuba,1927
-FN-40A,Paris,
-FN-40A,Madrid,
-FN-40A,Cuba,
+FN-39B,"Louisiana",1874
+FN-39C,"Davidson County, Tenn.",1850
+FN-39C,"Davidson County, Tenn.",1865
+FN-40A,"Cuba",1927
+FN-40A,"Paris",
+FN-40A,"Madrid",
+FN-40A,"Cuba",
 FN-40A,,1949
-FN-40C,District of Columbia,1830
-FN-40C,Connecticut,1830
-FN-40C,New York ,1830
-FN-40C,Maine,1830
-FN-40C,Pennsylvania,1830
-FN-40C,New Jersey,1830
-FN-40C,Louisiana,1818
-FN-40C,Virginia,1830
-FN-40C,South Carolina,1830
-FN-40D,New Orleans,
-FN-41A,Germany,1858-1925
-FN-41A,Italy,
-FN-41A,Venice,
-FN-41A,Germany,
+FN-40C,"District of Columbia",1830
+FN-40C,"Connecticut",1830
+FN-40C,"New York ",1830
+FN-40C,"Maine",1830
+FN-40C,"Pennsylvania",1830
+FN-40C,"New Jersey",1830
+FN-40C,"Louisiana",1818
+FN-40C,"Virginia",1830
+FN-40C,"South Carolina",1830
+FN-40D,"New Orleans",
+FN-41A,"Germany",1858-1925
+FN-41A,"Italy",
+FN-41A,"Venice",
+FN-41A,"Germany",
 FN-41A,,
-FN-41C,France,
-FN-41C,France,
-FN-41C,France,
-FN-41D,Georgia,1892
-FN-41D,Georgia,1892
-FN-42A,Johannesburg, South Africa,
-FN-42A,New York ,
-FN-42A,South Africa,
-FN-42A,South Africa,
-FN-42A,U.S.,
-FN-42A,South Africa,
-FN-42D,New York City,
-FN-42D,New York City,
-FN-42D,New York City,
-FN-42D,New York City,1959
+FN-41C,"France",
+FN-41C,"France",
+FN-41C,"France",
+FN-41D,"Georgia",1892
+FN-41D,"Georgia",1892
+FN-42A,"Johannesburg, South Africa",
+FN-42A,"New York ",
+FN-42A,"South Africa",
+FN-42A,"South Africa",
+FN-42A,"U.S.",
+FN-42A,"South Africa",
+FN-42D,"New York City",
+FN-42D,"New York City",
+FN-42D,"New York City",
+FN-42D,"New York City",1959
 FN-42C,,1861
 FN-42C,,1846
-FN-42C,Brooklyn,
-FN-43A,Palestine,
-FN-43A,Egypt,
-FN-43C,Kentucky,
-FN-43D,America,
-FN-43D,Germany,
-FN-43D,Los Angeles,
-FN-43D,New York City,
-FN-44A,Holly Springs, Miss�,1848
+FN-42C,"Brooklyn",
+FN-43A,"Palestine",
+FN-43A,"Egypt",
+FN-43C,"Kentucky",
+FN-43D,"America",
+FN-43D,"Germany",
+FN-43D,"Los Angeles",
+FN-43D,"New York City",
+FN-44A,"Holly Springs, Miss�",1848
 FN-44A,,1896
 FN-44B,,Jan, 1862
-FN-44B,Springfield Ill.,Aug, 1863
+FN-44B,"Springfield Ill.",Aug, 1863
 FN-44B,,
 FN-44D,,4th Century
 FN-44D,,4th Century
 FN-44D,,
-FN-45A,IFE, Nigeria,800-1300 A.D.
+FN-45A,"IFE, Nigeria",800-1300 A.D.
 FN-45A,,
 FN-45A,,
 FN-45D,,1925
 FN-45D,,
-FN-45C,Virginia,1806-1863
-FN-45C,Virginia,1850
-FN-45C,Virginia,
+FN-45C,"Virginia",1806-1863
+FN-45C,"Virginia",1850
+FN-45C,"Virginia",
 FN-45C,,
 FN-46A,,
-FN-46A,Africa,
-FN-46A,South Africa,
-FN-46A,South Africa,
-FN-46A,Lake Victoria,
-FN-46A,South Africa,40, 000
-FN-46A,Lake Victoria,40,000
+FN-46A,"Africa",
+FN-46A,"South Africa",
+FN-46A,"South Africa",
+FN-46A,"Lake Victoria",
+FN-46A,"South Africa",40, 000
+FN-46A,"Lake Victoria",40,000
 FN-46C,,
-FN-46C,North,Civil War
-FN-46C,South ,Civil War
-FN-46C,Boston,Civil War
-FN-46C,New York,Civil War
-FN-46C,Philadelphia,Civil War
+FN-46C,"North",Civil War
+FN-46C,"South ",Civil War
+FN-46C,"Boston",Civil War
+FN-46C,"New York",Civil War
+FN-46C,"Philadelphia",Civil War
 FN-46C,,
-FN-46D,New York,1884
+FN-46D,"New York",1884
 FN-47A,,
-FN-47A,Ancient Mexico,100 A.D.
-FN-47A,America,
+FN-47A,"Ancient Mexico",100 A.D.
+FN-47A,"America",
 FN-47C,,
-FN-47C,Jamacia, West Indies,
-FN-47C,Nicaragua,1870
-FN-47C,Port Royal, Jamacia,1870
-FN-47C,Jamacia, West Indies,1848
+FN-47C,"Jamacia, West Indies",
+FN-47C,"Nicaragua",1870
+FN-47C,"Port Royal, Jamacia",1870
+FN-47C,"Jamacia, West Indies",1848
 FN-48A,,
-FN-48A,Ethiopia,
-FN-48A,Ethiopia,
-FN-48A,Italy,1896
+FN-48A,"Ethiopia",
+FN-48A,"Ethiopia",
+FN-48A,"Italy",1896
 FN-48A,,1935-36
 FN-48C,,
-FN-48C,Dhlo-Dhlo,1903
-FN-48C,Mundie,
-FN-48C,M'bopoti,
-FN-48C,Zymbabwe,
+FN-48C,"Dhlo-Dhlo",1903
+FN-48C,"Mundie",
+FN-48C,"M'bopoti",
+FN-48C,"Zymbabwe",
 FN-48D,,
-FN-48D,Syria,
-FN-48D,Palestine,
-FN-48D,Turks,
+FN-48D,"Syria",
+FN-48D,"Palestine",
+FN-48D,"Turks",
 FN-49A,,
-FN-48D,Babylon,
-FN-49A,Ft. Wagner,July 18, 1863
-FN-49A,Chapin's Farm, VA,Sept. 29, 1864
+FN-48D,"Babylon",
+FN-49A,"Ft. Wagner",July 18, 1863
+FN-49A,"Chapin's Farm, VA",Sept. 29, 1864
 FN-49C,,
 FN-49C,,
-FN-49C,Massachusetts,1786
+FN-49C,"Massachusetts",1786
 FN-49C,,1777
 FN-49D,,
 FN-49D,,
-FN-49D,Muddy Hole, VA,
-FN-49D,Muddy Hole, VA,
+FN-49D,"Muddy Hole, VA",
+FN-49D,"Muddy Hole, VA",
 FN-50A,,
-FN-50A,Northwestern University,1954
+FN-50A,"Northwestern University",1954
 FN-50A,,
 FN-50D,,
-FN-50D,Europe,1910s-1920s
-FN-50D,France,1911
+FN-50D,"Europe",1910s-1920s
+FN-50D,"France",1911
 FN-50C,,
-FN-50C,Maryland,1633
-FN-50C,England,
-FN-50C,Barbados, West Indies,
-FN-50C,ChesapeakeBay,
+FN-50C,"Maryland",1633
+FN-50C,"England",
+FN-50C,"Barbados, West Indies",
+FN-50C,"ChesapeakeBay",
 FN-51A,,
-FN-51A,Grand Gulf, Mississippi,1844
-FN-51A,Washington,1887
+FN-51A,"Grand Gulf, Mississippi",1844
+FN-51A,"Washington",1887
 FN-51A,,
 FN-51D,,
-FN-51D,English Channel,August, 22 1950
-FN-51D,Nile Estuary,1939
+FN-51D,"English Channel",August, 22 1950
+FN-51D,"Nile Estuary",1939
 FN-51C,,
 FN-51C,,
-FN-51C,England,
+FN-51C,"England",
 FN-51C,,
 FN-52A,,
-FN-52A,Boston, Mass,1863
+FN-52A,"Boston, Mass",1863
 FN-52A,,
 FN-52C,,
-FN-52C,Mosque at Mecca,600 AD
+FN-52C,"Mosque at Mecca",600 AD
 FN-52C,,
 FN-52C,,1861-1930
 FN-52D,,
-FN-52D,Virginia,84 years
-FN-52D,Virginia,1526
-FN-52D,Virginia,1607
+FN-52D,"Virginia",84 years
+FN-52D,"Virginia",1526
+FN-52D,"Virginia",1607
 FN-53A,,
-FN-53A,Wayne Univ.,
-FN-53A,Italy,
-FN-53A,USA,
+FN-53A,"Wayne Univ.",
+FN-53A,"Italy",
+FN-53A,"USA",
 FN-53D,,
-FN-53D,Tennessee,1856
+FN-53D,"Tennessee",1856
 FN-53D,,1883-1886
 FN-53D,,1892
 FN-53D,,1900
-FN-53D,Memphis, Tennessee,
+FN-53D,"Memphis, Tennessee",
 FN-53C,,
 FN-53C,,1915
 FN-53C,,1879 and 1876
 FN-53C,,
 FN-54A,,
-FN-54A,New Jersey,1821-1902?
-FN-54A,Philadelphia,
-FN-54A,Canada,
+FN-54A,"New Jersey",1821-1902?
+FN-54A,"Philadelphia",
+FN-54A,"Canada",
 FN-54A,,
 FN-54A,,1871
 FN-54C,,
-FN-54C,Dahomey, Africa,
+FN-54C,"Dahomey, Africa",
 FN-54D,,
 FN-54D,,1351 B.C.
 FN-55A,,
-FN-55A,South America,
-FN-55A,Andes,
-FN-55A,Latin America,
-FN-55A,America,
-FN-55A,India,
+FN-55A,"South America",
+FN-55A,"Andes",
+FN-55A,"Latin America",
+FN-55A,"America",
+FN-55A,"India",
 FN-55C,,
-FN-55C,Boston, Mass.,1703
+FN-55C,"Boston, Mass.",1703
 FN-55D,,
-FN-55D,Central Africa,
-FN-55D,Rhodesia,
-FN-55D, Upper Egypt,4000 B.C.
+FN-55D,"Central Africa",
+FN-55D,"Rhodesia",
+FN-55D," Upper Egypt",4000 B.C.
 FN-56A,,
-FN-56A,West Africa,
-FN-56A,Livingstone College, N. C,
-FN-56A,Columbia University,
-FN-56A,Africa,
-FN-56A,Nigeria,
-FN-56A,Cameroons,
-FN-56A,Belgian Cong,
-FN-56A,Ethiopia,
-FN-56A,South Africa,
-FN-56A,Uganda,
+FN-56A,"West Africa",
+FN-56A,"Livingstone College, N. C",
+FN-56A,"Columbia University",
+FN-56A,"Africa",
+FN-56A,"Nigeria",
+FN-56A,"Cameroons",
+FN-56A,"Belgian Cong",
+FN-56A,"Ethiopia",
+FN-56A,"South Africa",
+FN-56A,"Uganda",
 FN-56C,,
 FN-56C,,1922
 FN-56C,,1923
@@ -743,28 +743,28 @@ FN-57A,,
 FN-57A,,
 FN-57A,,
 FN-57A,,
-FN-57A,Tuskegee,
-FN-57A,South Africa,
-FN-57A,U.S.,
-FN-57A,Bucks County, PA,
+FN-57A,"Tuskegee",
+FN-57A,"South Africa",
+FN-57A,"U.S.",
+FN-57A,"Bucks County, PA",
 FN-57A,,
 FN-57C,,
-FN-57C,Kuwait,
-FN-57C,Arabia,
+FN-57C,"Kuwait",
+FN-57C,"Arabia",
 FN-57D,,
-FN-57D,Texas,
+FN-57D,"Texas",
 FN-57D,,
 FN-58A,,
-FN-58A,Georgia,1855
-FN-58A,New York,
-FN-58A,Paris,
-FN-58A,France,
-FN-58A,Globe Theatre, N.Y. ,
+FN-58A,"Georgia",1855
+FN-58A,"New York",
+FN-58A,"Paris",
+FN-58A,"France",
+FN-58A,"Globe Theatre, N.Y. ",
 FN-58C,,
 FN-58C,,
 FN-58C,,
 FN-58D,,
-FN-58D,Atlanta, GA.,
+FN-58D,"Atlanta, GA.",
 FN-59A,,
 FN-59A,,
 FN-59C,,
@@ -772,15 +772,15 @@ FN-59C,,1875 to 1910
 FN-60A,,
 FN-60A,,4th Century
 FN-60A,,373-397 A.D.
-FN-60A,Southern China,
-FN-60A,China,
+FN-60A,"Southern China",
+FN-60A,"China",
 FN-60D,,
-FN-60D,Ehtiopia,937-977 A.D.
+FN-60D,"Ehtiopia",937-977 A.D.
 FN-60C,,
-FN-60C,Richmond The Confederate Capital,April 1864
+FN-60C,"Richmond The Confederate Capital",April 1864
 FN-61B,,
-FN-61B,Europe,1855
-FN-61B,Paris,
+FN-61B,"Europe",1855
+FN-61B,"Paris",
 FN-61B,,
 FN-61B,,
 FN-61B,,
@@ -789,35 +789,35 @@ FN-61B,,
 FN-61A,,
 FN-61A,,1859-1929
 FN-61A,,1883
-FN-61A,Washington, D.C.,
-FN-61A,Chicago,
-FN-61A,Chicago,
+FN-61A,"Washington, D.C.",
+FN-61A,"Chicago",
+FN-61A,"Chicago",
 FN-61A,,1903
-FN-61A,St. Louis,1898
+FN-61A,"St. Louis",1898
 FN-61D,,
-FN-61D,Northern Brazil,
+FN-61D,"Northern Brazil",
 FN-62A,,1837-1915?
-FN-62A,Maryland,
-FN-62A,Italy,1879
-FN-62A,France,1879
-FN-62A,India,1879
-FN-62A,Egypt,1879
-FN-62A, Liberia,
-FN-62A,Sierra Leone,
-FN-62A,Gold Coast,
-FN-62A,England,
-FN-62A,Chicago,1890
-FN-62C,London,1951
+FN-62A,"Maryland",
+FN-62A,"Italy",1879
+FN-62A,"France",1879
+FN-62A,"India",1879
+FN-62A,"Egypt",1879
+FN-62A," Liberia",
+FN-62A,"Sierra Leone",
+FN-62A,"Gold Coast",
+FN-62A,"England",
+FN-62A,"Chicago",1890
+FN-62C,"London",1951
 FN-62C,,
-FN-62D,Belgian Academy,
-FN-62D,France ,1909
-FN-62D,Europe ,5,000 years ago
-FN-62D,Paris, France,
-FN-63A,Virginia,
+FN-62D,"Belgian Academy",
+FN-62D,"France ",1909
+FN-62D,"Europe ",5,000 years ago
+FN-62D,"Paris, France",
+FN-63A,"Virginia",
 FN-63A,,
 FN-63A,,
-FN-63D,West Africa,
-FN-63C,Brazil,1519
+FN-63D,"West Africa",
+FN-63C,"Brazil",1519
 FN-63C,,1519
 FN-64A,,1683
 FN-64A,,
@@ -828,283 +828,283 @@ FN-64C,,Byzantine period
 FN-65A,,?1818-1907?
 FN-65A,,
 FN-65A,,
-FN-65A,Washington,
+FN-65A,"Washington",
 FN-65A,,1868
-FN-65A,Wilbeforce, Ohio, taught domestic science
-FN-65C,Spain,?1734-1770 
-FN-65D,Lake Erie,
-FN-65D,Lake Ontario,
-FN-65D,Slabtown,July 12, 1849
-FN-66A,Dahomey,1831-1906?
-FN-66A,France,1894
-FN-66A,Paris,
-FN-66B,New York,1821
-FN-66D,Ancient Egypt ,430 years
-FN-67A,Philadelpiha,?1848-1919
+FN-65A,"Wilbeforce, Ohio", taught domestic science
+FN-65C,"Spain",?1734-1770 
+FN-65D,"Lake Erie",
+FN-65D,"Lake Ontario",
+FN-65D,"Slabtown",July 12, 1849
+FN-66A,"Dahomey",1831-1906?
+FN-66A,"France",1894
+FN-66A,"Paris",
+FN-66B,"New York",1821
+FN-66D,"Ancient Egypt ",430 years
+FN-67A,"Philadelpiha",?1848-1919
 FN-67A,,
-FN-67A,Philadelphia,1876
-FN-67A,New England,
-FN-67A,Philadelphia,
-FN-67C,Ancient Greece,
+FN-67A,"Philadelphia",1876
+FN-67A,"New England",
+FN-67A,"Philadelphia",
+FN-67C,"Ancient Greece",
 FN-67C,,
 FN-67C,,
-FN-67D,Hoggar,15,000 years
-FN-67D,Sahara Desert,15,000 years
-FN-67D,Africa,15,000 years
-FN-67D,South Africa,
-FN-67D,France ,
-FN-67D,Spain,
-FN-67D,Europe ,
-FN-68A,Villiers-Cotter-Et,
-FN-68A,Paris, France,1941
-FN-68C,North Carolina,1961
-FN-68D,Ghana,4th to the 13th century A.D.
-FN-69A,Venice,?1725 - 1798?
+FN-67D,"Hoggar",15,000 years
+FN-67D,"Sahara Desert",15,000 years
+FN-67D,"Africa",15,000 years
+FN-67D,"South Africa",
+FN-67D,"France ",
+FN-67D,"Spain",
+FN-67D,"Europe ",
+FN-68A,"Villiers-Cotter-Et",
+FN-68A,"Paris, France",1941
+FN-68C,"North Carolina",1961
+FN-68D,"Ghana",4th to the 13th century A.D.
+FN-69A,"Venice",?1725 - 1798?
 FN-69A,,
 FN-69A,,
-FN-69D,Chelsea, Mass. ,?1864- 1927?
-FN-69C,Haiti,1806-1868
+FN-69D,"Chelsea, Mass. ",?1864- 1927?
+FN-69C,"Haiti",1806-1868
 FN-69C,,
-FN-69C,Illinois,
-FN-69C,Springfield ,
-FN-70A,West Africa,1937
-FN-70A,Nupe,Middle Ages
-FN-70A,Ghana,Middle Ages
-FN-70A,Ife,Middle Ages
-FN-70A,Songhay,Middle Ages
-FN-70C,Rome,?146-211 A.D.?
-FN-70C,Niger,
-FN-70C,Britain,
-FN-70C,River Niger,
-FN-70C,West Africa,
-FN-70D,Egypt ,1881
-FN-70D,Alexandria,
-FN-70D,El-El-Kebir,Sept. 13, 1882
-FN-71A,Colorado,1820
-FN-71A,The Rockies ,
-FN-71A,The Sierras,
-FN-71A,California,
-FN-71A,Denver,
-FN-71A,Pueblo,
-FN-71A,Colorado,
-FN-71D,Connecticut,
-FN-71D,Central America,
-FN-71D,Massachusetts,
-FN-71D,New England states,
+FN-69C,"Illinois",
+FN-69C,"Springfield ",
+FN-70A,"West Africa",1937
+FN-70A,"Nupe",Middle Ages
+FN-70A,"Ghana",Middle Ages
+FN-70A,"Ife",Middle Ages
+FN-70A,"Songhay",Middle Ages
+FN-70C,"Rome",?146-211 A.D.?
+FN-70C,"Niger",
+FN-70C,"Britain",
+FN-70C,"River Niger",
+FN-70C,"West Africa",
+FN-70D,"Egypt ",1881
+FN-70D,"Alexandria",
+FN-70D,"El-El-Kebir",Sept. 13, 1882
+FN-71A,"Colorado",1820
+FN-71A,"The Rockies ",
+FN-71A,"The Sierras",
+FN-71A,"California",
+FN-71A,"Denver",
+FN-71A,"Pueblo",
+FN-71A,"Colorado",
+FN-71D,"Connecticut",
+FN-71D,"Central America",
+FN-71D,"Massachusetts",
+FN-71D,"New England states",
 FN-71D,,1769-1859
 FN-71D,,
-FN-71C,New York City,1703
-FN-72A,India,1365 B.C.
-FN-72A,India, 6th century B.C.
-FN-72C,New Orleans, LA.,
-FN-72D,Africa,
-FN-73A,Europe,
-FN-73A,Europe,
-FN-73A,Europe,
-FN-73A,Europe,
-FN-73A,Europe,
-FN-73D,Portuguese, East Africa,
-FN-73D,Asia,2001 years ago
-FN-73C,Africa,
-FN-73C,Islands of the Pacific,
-FN-73C,Borney,
-FN-74A,Hoggar, Southern Algeria,thousands of years older
-FN-74A,Sahara, Africa,
-FN-74A,Rome,
-FN-74A,Spain,
-FN-74A,Portugal,
-FN-74A,Egypt ,thousands of years older
-FN-74D,Ethiopia,660 to 250 B.C.
+FN-71C,"New York City",1703
+FN-72A,"India",1365 B.C.
+FN-72A,"India", 6th century B.C.
+FN-72C,"New Orleans, LA.",
+FN-72D,"Africa",
+FN-73A,"Europe",
+FN-73A,"Europe",
+FN-73A,"Europe",
+FN-73A,"Europe",
+FN-73A,"Europe",
+FN-73D,"Portuguese, East Africa",
+FN-73D,"Asia",2001 years ago
+FN-73C,"Africa",
+FN-73C,"Islands of the Pacific",
+FN-73C,"Borney",
+FN-74A,"Hoggar, Southern Algeria",thousands of years older
+FN-74A,"Sahara, Africa",
+FN-74A,"Rome",
+FN-74A,"Spain",
+FN-74A,"Portugal",
+FN-74A,"Egypt ",thousands of years older
+FN-74D,"Ethiopia",660 to 250 B.C.
 FN-74D,,58-80 A.D.
 FN-74D,,58-80 A.D.
-FN-74D,Jerusalem,58-80 A.D.
+FN-74D,"Jerusalem",58-80 A.D.
 FN-74D,,58-80 A.D.
-FN-74C,Mobile, Alabama,
-FN-74C,Africa,
-FN-74C,America,1937
-FN-74C,America,1808
-FN-74C,America,1861
-FN-75A,Massachusetts,
-FN-75A,Washington, D. C.,
-FN-75A,Boston,
-FN-75A,Italy ,
-FN-75A,Massachusetts,1964
-FN-75C,Caucasus, Southern Russia,2300 years
-FN-75C,Germany,
-FN-75D,Egypt ,
-FN-76A,Central Africa,18th century
-FN-76A,England ,19th century
-FN-76A,Belgium ,20th century
-FN-76B,Brazil,
-FN-76B,Africa,
-FN-76B,Quatro Vintens,1714
-FN-76B,Villa Nova Do Principe,1714
-FN-76B,Brazil,
-FN-76C,New Orleans,1862
-FN-77A,Jamacia,
-FN-77A,London,1947
-FN-77A,Geneva,1947
-FN-77A,Havana,1947
+FN-74C,"Mobile, Alabama",
+FN-74C,"Africa",
+FN-74C,"America",1937
+FN-74C,"America",1808
+FN-74C,"America",1861
+FN-75A,"Massachusetts",
+FN-75A,"Washington, D. C.",
+FN-75A,"Boston",
+FN-75A,"Italy ",
+FN-75A,"Massachusetts",1964
+FN-75C,"Caucasus, Southern Russia",2300 years
+FN-75C,"Germany",
+FN-75D,"Egypt ",
+FN-76A,"Central Africa",18th century
+FN-76A,"England ",19th century
+FN-76A,"Belgium ",20th century
+FN-76B,"Brazil",
+FN-76B,"Africa",
+FN-76B,"Quatro Vintens",1714
+FN-76B,"Villa Nova Do Principe",1714
+FN-76B,"Brazil",
+FN-76C,"New Orleans",1862
+FN-77A,"Jamacia",
+FN-77A,"London",1947
+FN-77A,"Geneva",1947
+FN-77A,"Havana",1947
 FN-77A,,1948
-FN-77C, Lima, Peru,
-FN-77C,Spain,
+FN-77C," Lima, Peru",
+FN-77C,"Spain",
 FN-77D,,30,000 years ago
-FN-77D,Central Sahara,1938
-FN-78A,Egypt,600 B.C.
-FN-78A,Kingdom of Osiris,
-FN-78A,Britain,
-FN-78A,Cairo, Egypt,
+FN-77D,"Central Sahara",1938
+FN-78A,"Egypt",600 B.C.
+FN-78A,"Kingdom of Osiris",
+FN-78A,"Britain",
+FN-78A,"Cairo, Egypt",
 FN-78D,,?1815-1887
-FN-78D,Ft. Wagner,1863
-FN-78D,Honey Hill,1863
-FN-78D,Charleston,1863
-FN-78D,Olustee,1863
-FN-78D,Savannah,1863
-FN-78C,Ancient Rome,
-FN-79A,Africa,
-FN-79A,Egypt ,
-FN-79A,Europe,
-FN-79A,Central Africa,
-FN-79A,Ishang, Belgian Congo,8000 years
-FN-79C,Paris,Aug. 12, 1790
-FN-79C,Paris,Aug. 12, 1791
-FN-79D,London ,1850�s
-FN-79D,London ,1870
-FN-80A,Zimbabwe, South Africa,
-FN-80C,New Amsterdam ,May 5, 1641
-FN-80C,New Amsterdam ,May 5, 1642
-FN-80C,West Indies,
-FN-80C,New York,
-FN-80D,North Africa,
-FN-80D,Phoenecia,850 B.C.
-FN-80D,Spain ,
-FN-80D,Rome,13 years
-FN-81A,France,1824-1904
-FN-81A,Anglo-Egyptian Sudan ,
-FN-81A,Sudan,1885
-FN-81C,America,
-FN-81C,America,
-FN-81C,Confederate states,
-FN-82A,Ancient Eurpoe,
-FN-82A,Africa,
-FN-82A,Quirnal, Rome,
-FN-82D,USA,1865
-FN-82D,Russia,1861
-FN-82C,Ethiopia,1894
-FN-82C,Italy,
-FN-82C, Adowa ,March 1, 1896
-FN-83A,Benin,12th century
-FN-83C,Dominica, BWI,1958
-FN-83C,London,
-FN-83D,New World,1502-1886
-FN-83D,U.S.A.,
-FN-83D,New York ,1808
-FN-83D,Polk City, FLA,
-FN-84A,Phillipine,
-FN-84A,Southern India,
-FN-84A,Siam,
-FN-84A,New Guinea,
-FN-84A,Andaman Islands,
-FN-84C,Sudan,
-FN-84C,Sudan,1896
-FN-85A,Tuskegee, Alabama,1948
-FN-85C,United States,
-FN-85D,Boston,Jan. 1, 1776
+FN-78D,"Ft. Wagner",1863
+FN-78D,"Honey Hill",1863
+FN-78D,"Charleston",1863
+FN-78D,"Olustee",1863
+FN-78D,"Savannah",1863
+FN-78C,"Ancient Rome",
+FN-79A,"Africa",
+FN-79A,"Egypt ",
+FN-79A,"Europe",
+FN-79A,"Central Africa",
+FN-79A,"Ishang, Belgian Congo",8000 years
+FN-79C,"Paris",Aug. 12, 1790
+FN-79C,"Paris",Aug. 12, 1791
+FN-79D,"London ",1850�s
+FN-79D,"London ",1870
+FN-80A,"Zimbabwe, South Africa",
+FN-80C,"New Amsterdam ",May 5, 1641
+FN-80C,"New Amsterdam ",May 5, 1642
+FN-80C,"West Indies",
+FN-80C,"New York",
+FN-80D,"North Africa",
+FN-80D,"Phoenecia",850 B.C.
+FN-80D,"Spain ",
+FN-80D,"Rome",13 years
+FN-81A,"France",1824-1904
+FN-81A,"Anglo-Egyptian Sudan ",
+FN-81A,"Sudan",1885
+FN-81C,"America",
+FN-81C,"America",
+FN-81C,"Confederate states",
+FN-82A,"Ancient Eurpoe",
+FN-82A,"Africa",
+FN-82A,"Quirnal, Rome",
+FN-82D,"USA",1865
+FN-82D,"Russia",1861
+FN-82C,"Ethiopia",1894
+FN-82C,"Italy",
+FN-82C," Adowa ",March 1, 1896
+FN-83A,"Benin",12th century
+FN-83C,"Dominica, BWI",1958
+FN-83C,"London",
+FN-83D,"New World",1502-1886
+FN-83D,"U.S.A.",
+FN-83D,"New York ",1808
+FN-83D,"Polk City, FLA",
+FN-84A,"Phillipine",
+FN-84A,"Southern India",
+FN-84A,"Siam",
+FN-84A,"New Guinea",
+FN-84A,"Andaman Islands",
+FN-84C,"Sudan",
+FN-84C,"Sudan",1896
+FN-85A,"Tuskegee, Alabama",1948
+FN-85C,"United States",
+FN-85D,"Boston",Jan. 1, 1776
 FN-86A,,
-FN-86A,Egypt,earliest centuries B.C.
-FN-86A,Egypt,
-FN-86C,Sierra Leone,1860
-FN-86C,Sierra Leone,1921
-FN-86D,Egypt,
+FN-86A,"Egypt",earliest centuries B.C.
+FN-86A,"Egypt",
+FN-86C,"Sierra Leone",1860
+FN-86C,"Sierra Leone",1921
+FN-86D,"Egypt",
 FN-87A,,1875-1910?
 FN-87C,,
-FN-87C,St. Simon�s Island, GA.,
-FN-87D,Brownsville, Texas,May 13, 1865
+FN-87C,"St. Simon�s Island, GA.",
+FN-87D,"Brownsville, Texas",May 13, 1865
 FN-88A,,
-FN-88C,Washington,
-FN-88C,Utah,1877
-FN-88C,Montana,
-FN-88C,Maryland,1755
-FN-89A,Virginia,
+FN-88C,"Washington",
+FN-88C,"Utah",1877
+FN-88C,"Montana",
+FN-88C,"Maryland",1755
+FN-89A,"Virginia",
 FN-89A,,
-FN-89A, Petersburg, VA,
-FN-89C,San Francisco,1915
-FN-89C,Missouri ,
+FN-89A," Petersburg, VA",
+FN-89C,"San Francisco",1915
+FN-89C,"Missouri ",
 FN-89D,,1870
-FN-90A,Ife, Nigeria, West Africa,800 A.D.
-FN-90A,Ife, Nigeria, West Africa,25,000 B.C.
-FN-90C,Texas,
+FN-90A,"Ife, Nigeria, West Africa",800 A.D.
+FN-90A,"Ife, Nigeria, West Africa",25,000 B.C.
+FN-90C,"Texas",
 FN-90B,,1890
-FN-90B,S. Carolina,1890
-FN-90B,Louisiana,1890
-FN-90B,Mississippi,1890
-FN-91A,Virginia,1841
+FN-90B,"S. Carolina",1890
+FN-90B,"Louisiana",1890
+FN-90B,"Mississippi",1890
+FN-91A,"Virginia",1841
 FN-91A,,1868
 FN-91A,,1870
 FN-91A,,1870
 FN-91A,,1881
-FN-91D,Germany,
-FN-91D,England,
-FN-91D,Boston,
-FN-91D,Massachusetts,
-FN-91D,Allentown, PA,
-FN-91C,Maryland ,1818
-FN-91C,Maryland ,1704
-FN-91C,Pennsylvania,
+FN-91D,"Germany",
+FN-91D,"England",
+FN-91D,"Boston",
+FN-91D,"Massachusetts",
+FN-91D,"Allentown, PA",
+FN-91C,"Maryland ",1818
+FN-91C,"Maryland ",1704
+FN-91C,"Pennsylvania",
 FN-92A,,?1850-1901?
-FN-92C,Alba, Italy,
-FN-92C,Alba, Italy,
+FN-92C,"Alba, Italy",
+FN-92C,"Alba, Italy",
 FN-92D,,
-FN-92D,G.A.,
-FN-92D,Buffalo,September 6th, 1901
+FN-92D,"G.A.",
+FN-92D,"Buffalo",September 6th, 1901
 FN-92D,,
-FN-93A,West Indies ,
+FN-93A,"West Indies ",
 FN-93A,,
 FN-93A,,
 FN-93A,,
-FN-93C,U.S. ,1905 to 1913
-FN-93D,Kentucky,
-FN-93D,Tennessee,
+FN-93C,"U.S. ",1905 to 1913
+FN-93D,"Kentucky",
+FN-93D,"Tennessee",
 FN-93D,,1799
-FN-93D,Harpe�s head, KY ,
-FN-94A,Africa,
+FN-93D,"Harpe�s head, KY ",
+FN-94A,"Africa",
 FN-94A,,1714-99
-FN-94C,North Africa,624 BC
-FN-94C,North Africa,624 BC
-FN-94C,Cyrene, North Africa,founded 624 BC
+FN-94C,"North Africa",624 BC
+FN-94C,"North Africa",624 BC
+FN-94C,"Cyrene, North Africa",founded 624 BC
 FN-94C,,19th century
 FN-94C,,
 FN-95A,,XVI Century 
-FN-95A,Italy,XVI Century 
-FN-95A,Florence,XVI Century 
-FN-95C,Cuba,1858-1909
-FN-95C,Cuba and America,
-FN-95D,Southern Sahara, Africa,1938
-FN-96A,Mississippi,
+FN-95A,"Italy",XVI Century 
+FN-95A,"Florence",XVI Century 
+FN-95C,"Cuba",1858-1909
+FN-95C,"Cuba and America",
+FN-95D,"Southern Sahara, Africa",1938
+FN-96A,"Mississippi",
 FN-96A,,
 FN-96A,,
 FN-96A,,
 FN-96A,,
 FN-96A,,
 FN-96A,,
-FN-97A,Washington D.C,1834
-FN-97A,Maine,
-FN-97A,Alaska,
-FN-97B,Sesebi, Egypt,1350 B.C.
-FN-97B,Greece,
-FN-97B,Palestine,
-FN-97B,Syria,
-FN-98A,New York,1815-1881
-FN-98C,England,1521
-FN-98C,Naples,
-FN-98C,Rome,
-FN-98D,Prince William Co., VA,1794
-FN-99A,Paris, France,1967
+FN-97A,"Washington D.C",1834
+FN-97A,"Maine",
+FN-97A,"Alaska",
+FN-97B,"Sesebi, Egypt",1350 B.C.
+FN-97B,"Greece",
+FN-97B,"Palestine",
+FN-97B,"Syria",
+FN-98A,"New York",1815-1881
+FN-98C,"England",1521
+FN-98C,"Naples",
+FN-98C,"Rome",
+FN-98D,"Prince William Co., VA",1794
+FN-99A,"Paris, France",1967
 FN-99A,,
 FN-99A,,
 FN-99A,,
 FN-99A,,
 FN-99A,,
-FN-99C,Tristan Da Cunha,1827
-FN-99C,Tristan Da Cunha,1827
-FN-99C,Tristan Da Cunha,1967
+FN-99C,"Tristan Da Cunha",1827
+FN-99C,"Tristan Da Cunha",1827
+FN-99C,"Tristan Da Cunha",1967
