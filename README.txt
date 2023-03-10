@@ -7,3 +7,6 @@ To-Do:
 
 -Look in JSON formatting for putting multiple metadata tags on one page for the same column
 -Looking into ways to provide coordinates for locations
+    - Geo Data Viewer
+    - GPS Visualizer
+    - Open Street Maps
