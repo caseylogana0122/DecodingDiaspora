@@ -10,3 +10,4 @@ To-Do:
     - Geo Data Viewer
     - GPS Visualizer
     - Open Street Maps
+   We are going to have students compile all of the cords for the metadata.
