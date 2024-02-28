@@ -1,313 +1,276 @@
-dcterms:title,dcterms:spatial,dcterms:spatial,dcterms:date,dcterms:date,
-FN-1A,"San Souci, Haiti",, ,,
-FN-1B,"Nevis, West Indies",England,,,
-FN-1C,South Africa,,1949,,
-FN-2A,"Galveston, Texas",,1978,,
-FN-2A,N. Carolina,,1945,,
-FN-2A,"Havana, Cuba",,1915,,
-FN-2A,Australia,,,,
-FN-2B,"Newark, N.J.",, ,,
-FN-3A,"Adowa, Ethiopia",,1896,,
-FN-3A,Europe,,1896,,
-FN-3B,"Louisville, KY",,1859,,
-FN-3C,Cuba,,1852-1911,,
-FN-4A,Ghana,, ,,
-FN-4D,United States,,1829,,
-FN-4C,Kentucky,,1872,,
-FN-4C,The State Mansion,,36 years,,
-FN-5A,Morocco,,1870s and 80s,,
-FN-5D,"Fresno, California",, ,,
-FN-6A,"Mound Bayou, Miss.",,1847,,
-FN-6A,"Mound Bayou, Miss.",,1887,,
-FN-6C,"Mound Bayou, Miss.",,17-Jul,1887,
-FN-6D,Africa,,1504,,
-FN-6D,Scotland,,1504,,
-FN-6D,"Edinburgh, Scotland",,June 1507,,
-FN-7A,Tunis,,1533,,
-FN-7C,"St. Augustine, Fla",, ,,
-FN-8A,Persia,,2300 B.C.,,
-FN-8C,U.S.,,1869,,
-FN-8C,U.S.,, ,,
-FN-8C,Philadelphia,, ,,
-FN-8C,Columbia,, ,,
-FN-8C,S.C.,, ,,
-FN-8C,Washington D.C.,, ,,
-FN-8D,Africa,, ,,
-FN-9A,Nigeria,,1958,,
-FN-9C,South Africa,,1765-1835,,
-FN-9C,"Kok-Stad, Griqualand",,1867,,
-FN-10A,"Brighton, England",,18th Century,,
-FN-10B,"Central Sahara, Africa",,1935,,
-FN-10C,Timbuctoo,,late 17th Century,,
-FN-10C,Timbuctoo,, ,,
-FN-10C,The Niger,,late 17th Century,,
-FN-11A,Geneva,,1956,,
-FN-11C,New York City,,1825,,
-FN-11C,America ,,1851,,
-FN-12C,"New Haven, Connecticut",,1833-1938,,
-FN-13A,New Orleans,,6-Apr,1893,
-FN-14A,"Rugby, England",, ,,
-FN-14A,"Magdala, Ethiopia",,1867,,
-FN-14A,The Royal Chapel at Windsor,,1876,,
-FN-14C,W. Indies,,1686,,
-FN-14D,"Cincinatti, Ohio",,1850s,,
-FN-15D,America,,Before the Civil War,,
-FN-16A,Gaboon,,1849,,
-FN-16C,America,,1890,,
-FN-16C,America,,11-May,1889,
-FN-17C,Egypt,,1500 B.C.,,
-FN-17C,"Grant Parrish, Louisiana",,13-Apr,1873,
-FN-18C,Egypt,,670 B.C.,,
-FN-18C,Egypt,,8th Century B.C.,,
-FN-18D,Oregon,,Fb. 12,1985,
-FN-19D,Britain,,1902,,
-FN-19C,Southern India,,14th Century B.C.,,
-FN-19C,Asai,,14,,
-FN-19C,Indo-China,,14th Century B.C.,,
-FN-20A,Nyassa-Land,,1962,,
-FN-20A,Chicago,, ,,
-FN-20A,"Edinburgh, Scotland",, ,,
-FN-20A,London,, ,,
-FN-21A,"Ruanda, East Africa",, ,,
-FN-21C,England,,1651,,
-FN-21C,Wales,,1651,,
-FN-21C,France,,1651,,
-FN-22A,Britain,,1947,,
-FN-22C,Virgin Islands,,1848,,
-FN-22C,St. Croix,,1848,,
-FN-22D,Algeria,, ,,
-FN-23A,Egypt,,1500 B.C.,,
-FN-23A,Arabia,,1500 B.C.,,
-FN-23A,Ancient East,,1500 B.C.,,
-FN-23A,Sudan,,1500 B.C.,,
-FN-23A,"Egyptian Dept. Metropolitan Museum of Art, New York",,1500 B.C.,,
-FN-23C,"Lexington, KY",,1926,,
-FN-24A,New York,,American Revolution,,
-FN-24A,West Indies,, ,,
-FN-24A,Jamaica,, ,,
-FN-24C,Panama,,1513,,
-FN-24C,Africa,, ,,
-FN-25A,"Ladies' Island, South Carolina",,May 1862,,
-FN-25B,"Washington, D.C.",,1867,,
-FN-25B,"Washington, D.C.",,1871,,
-FN-25C,Africa,,1802-1811,,
-FN-25C,"Portuguese, W. Africa",,1802-1811,,
-FN-25C,"Prtugues, East Africa",,1802-1811,,
-FN-25C,"Portugues, East Africa",,1802-1811,,
-FN-26A,"Island of Reunion, East Africa",,1865,,
-FN-26C,Memphis & Ohio R.R.,,1868,,
-FN-27D,"The Parish of St. John the Baptist, L.A.",,1811,,
-FN-28A,Africa,,1808,,
-FN-29A,Holland,,1606-69,,
-FN-29D,Brazil,,1767-1830,,
-FN-31A,U.S.,,1866-1923,,
-FN-31C,"St. Croix, Virgin Islands",,1848,,
-FN-31D,New York City,,1940-1950,,
-FN-31D,Chicago,,1940-1950,,
-FN-31D,Detroit,,1940-1950,,
-FN-31D,"Charleston, S.C.",,1940-1950,,
-FN-32A,"Benin, West Africa",,1485,,
-FN-32D,Arkansas,,1960,,
-FN-32D,Mississippi,,1960,,
-FN-32D,Missouri,,1960,,
-FN-32D,Tennessee,,1960,,
-FN-33A,"Lexington, KY",,1814,,
-FN-33A,Paris,,1849,,
-FN-33A,Europe,,1854,,
-FN-33C,Ethiopia,,690 B.C.,,
-FN-33C,Egypt ,,690 B.C.,,
-FN-33C,Ethiopia,,720 B.C.,,
-FN-33C,Egypt,,720 B.C.,,
-FN-34C,Egypt ,,4500 B.C.,,
-FN-35A,Egypt ,,660 B.C.,,
-FN-35D,"Albany, New York",,1892,,
-FN-35C,N.Y. City,,Dec. 11,1928,
-FN-35C,Philadelphia,,Dec. 11,1928,
-FN-35C,"London, England",,Dec. 11,1928,
-FN-36A,"Benin, West Africa",,1500 A.D.,,
-FN-36C,"Annamboe, West Africa",,18th Century,,
-FN-36C,London,,18th Century,,
-FN-37A,"Martinique, West Indies",,1848,,
-FN-37A,Paris,,1848,,
-FN-37D,New York City,,July 1863,,
-FN-38C,Prehistoric South Africa,,25,000 to 50,000 B.C.
-FN-39A,South Carolina,,20th Century,,
-FN-39B,Louisiana,,1844-1913,,
-FN-39B,Louisiana,,1874,,
-FN-39C,"Davidson County, Tenn.",,1850,,
-FN-39C,"Davidson County, Tenn.",,1865,,
-FN-40A,Cuba,,1927,,
-FN-40C,District of Columbia,,1830,,
-FN-40C,Connecticut,,1830,,
-FN-40C,New York ,,1830,,
-FN-40C,Maine,,1830,,
-FN-40C,Pennsylvania,,1830,,
-FN-40C,New Jersey,,1830,,
-FN-40C,Louisiana,,1818,,
-FN-40C,Virginia,,1830,,
-FN-40C,South Carolina,,1830,,
-FN-41A,Germany,,1858-1925,,
-FN-41D,Georgia,,1892,,
-FN-42D,New York City,,1959,,
-FN-44A,"Holly Springs, Missï¿½",,1848,,
-FN-44B,Springfield Ill.,,Aug,1863,
-FN-45A,"IFE, Nigeria",,800-1300 A.D.,,
-FN-45C,Virginia,,1806-1863,,
-FN-45C,Virginia,,1850,,
-FN-46A,South Africa,,40,0,
-FN-46A,Lake Victoria,,40,0,
-FN-46C,North,,Civil War,,
-FN-46C,South ,,Civil War,,
-FN-46C,Boston,,Civil War,,
-FN-46C,New York,,Civil War,,
-FN-46C,Philadelphia,,Civil War,,
-FN-46D,New York,,1884,,
-FN-47A,Ancient Mexico,,100 A.D.,,
-FN-47C,Nicaragua,,1870,,
-FN-47C,"Port Royal, Jamacia",,1870,,
-FN-47C,"Jamacia, West Indies",,1848,,
-FN-48A,Italy,,1896,,
-FN-48C,Dhlo-Dhlo,,1903,,
-FN-49A,Ft. Wagner,,18-Jul,1863,
-FN-49A,"Chapin's Farm, VA",,Sept. 29,1864,
-FN-49C,Massachusetts,,1786,,
-FN-50A,Northwestern University,,1954,,
-FN-50D,Europe,,1910s-1920s,,
-FN-50D,France,,1911,,
-FN-50C,Maryland,,1633,,
-FN-51A,"Grand Gulf, Mississippi",,1844,,
-FN-51A,Washington,,1887,,
-FN-51D,English Channel,,August, 22 1950,
-FN-51D,Nile Estuary,,1939,,
-FN-52A,"Boston, Mass",,1863,,
-FN-52C,Mosque at Mecca,,600 AD,,
-FN-52D,Virginia,,84 years,,
-FN-52D,Virginia,,1526,,
-FN-52D,Virginia,,1607,,
-FN-53D,Tennessee,,1856,,
-FN-54A,New Jersey,,1821-1902?,,
-FN-55C,"Boston, Mass.",,1703,,
-FN-55D, Upper Egypt,,4000 B.C.,,
-FN-58A,Georgia,,1855,,
-FN-60D,Ehtiopia,,937-977 A.D.,,
-FN-60C,Richmond The Confederate Capital,,April 1864,,
-FN-61B,Europe,,1855,,
-FN-61A,St. Louis,,1898,,
-FN-62A,Italy,,1879,,
-FN-62A,France,,1879,,
-FN-62A,India,,1879,,
-FN-62A,Egypt,,1879,,
-FN-62A,Chicago,,1890,,
-FN-62C,London,,1951,,
-FN-62D,France ,,1909,,
-FN-62D,Europe ,,5,000 years ago,
-FN-63C,Brazil,,1519,,
-FN-65A,"Wilbeforce, Ohio",, taught domestic science,,
-FN-65C,Spain,,?1734-1770 ,,
-FN-65D,Slabtown,,12-Jul,1849,
-FN-66A,Dahomey,,1831-1906?,,
-FN-66A,France,,1894,,
-FN-66B,New York,,1821,,
-FN-66D,Ancient Egypt ,,430 years,,
-FN-67A,Philadelpiha,,?1848-1919,,
-FN-67A,Philadelphia,,1876,,
-FN-67D,Hoggar,,15,000 years,
-FN-67D,Sahara Desert,,15,000 years,
-FN-67D,Africa,,15,000 years,
-FN-68A,"Paris, France",,1941,,
-FN-68C,North Carolina,,1961,,
-FN-68D,Ghana,,4th to the 13th century A.D.,,
-FN-69A,Venice,,?1725 - 1798?,,
-FN-69D,"Chelsea, Mass. ",,?1864- 1927?,,
-FN-69C,Haiti,,1806-1868,,
-FN-70A,West Africa,,1937,,
-FN-70A,Nupe,,Middle Ages,,
-FN-70A,Ghana,,Middle Ages,,
-FN-70A,Ife,,Middle Ages,,
-FN-70A,Songhay,,Middle Ages,,
-FN-70C,Rome,,?146-211 A.D.?,,
-FN-70D,Egypt ,,1881,,
-FN-70D,El-El-Kebir,,Sept. 13,1882,
-FN-71A,Colorado,,1820,,
-FN-71C,New York City,,1703,,
-FN-72A,India,,1365 B.C.,,
-FN-72A,India,, 6th century B.C.,,
-FN-73D,Asia,,2001 years ago,,
-FN-74A,"Hoggar, Southern Algeria",,thousands of years older,,
-FN-74A,Egypt ,,thousands of years older,,
-FN-74D,Ethiopia,,660 to 250 B.C.,,
-FN-74D,Jerusalem,,58-80 A.D.,,
-FN-74C,America,,1937,,
-FN-74C,America,,1808,,
-FN-74C,America,,1861,,
-FN-75A,Massachusetts,,1964,,
-FN-75C,"Caucasus, Southern Russia",,2300 years,,
-FN-76A,Central Africa,,18th century,,
-FN-76A,England ,,19th century,,
-FN-76A,Belgium ,,20th century,,
-FN-76B,Quatro Vintens,,1714,,
-FN-76B,Villa Nova Do Principe,,1714,,
-FN-76C,New Orleans,,1862,,
-FN-77A,London,,1947,,
-FN-77A,Geneva,,1947,,
-FN-77A,Havana,,1947,,
-FN-77D,Central Sahara,,1938,,
-FN-78A,Egypt,,600 B.C.,,
-FN-78D,Ft. Wagner,,1863,,
-FN-78D,Honey Hill,,1863,,
-FN-78D,Charleston,,1863,,
-FN-78D,Olustee,,1863,,
-FN-78D,Savannah,,1863,,
-FN-79A,"Ishang, Belgian Congo",,8000 years,,
-FN-79C,Paris,,Aug. 12,1790,
-FN-79C,Paris,,Aug. 12,1791,
-FN-79D,London ,,1850ï¿½s,,
-FN-79D,London ,,1870,,
-FN-80C,New Amsterdam ,,5-May,1641,
-FN-80C,New Amsterdam ,,5-May,1642,
-FN-80D,Phoenecia,,850 B.C.,,
-FN-80D,Rome,,13 years,,
-FN-81A,France,,1824-1904,,
-FN-81A,Sudan,,1885,,
-FN-82D,USA,,1865,,
-FN-82D,Russia,,1861,,
-FN-82C,Ethiopia,,1894,,
-FN-82C, Adowa ,,1-Mar,1896,
-FN-83A,Benin,,12th century,,
-FN-83C,"Dominica, BWI",,1958,,
-FN-83D,New World,,1502-1886,,
-FN-83D,New York ,,1808,,
-FN-84C,Sudan,,1896,,
-FN-85A,"Tuskegee, Alabama",,1948,,
-FN-85D,Boston,,Jan. 1,1776,
-FN-86A,Egypt,,earliest centuries B.C.,,
-FN-86C,Sierra Leone,,1860,,
-FN-86C,Sierra Leone,,1921,,
-FN-87D,"Brownsville, Texas",,13-May,1865,
-FN-88C,Utah,,1877,,
-FN-88C,Maryland,,1755,,
-FN-89C,San Francisco,,1915,,
-FN-90A,"Ife, Nigeria, West Africa",,800 A.D.,,
-FN-90A,"Ife, Nigeria, West Africa",,25,000 B.C.,
-FN-90B,S. Carolina,,1890,,
-FN-90B,Louisiana,,1890,,
-FN-90B,Mississippi,,1890,,
-FN-91A,Virginia,,1841,,
-FN-91C,Maryland ,,1818,,
-FN-91C,Maryland ,,1704,,
-FN-92D,Buffalo,,September 6th,1901,
-FN-93C,U.S. ,,1905 to 1913,,
-FN-94C,North Africa,,624 BC,,
-FN-94C,"Cyrene, North Africa",,founded 624 BC,,
-FN-95A,Italy,,XVI Century ,,
-FN-95A,Florence,,XVI Century ,,
-FN-95C,Cuba,,1858-1909,,
-FN-95D,"Southern Sahara, Africa",,1938,,
-FN-97A,Washington D.C,,1834,,
-FN-97B,"Sesebi, Egypt",,1350 B.C.,,
-FN-98A,New York,,1815-1881,,
-FN-98C,England,,1521,,
-FN-98D,"Prince William Co., VA",,1794,,
-FN-99A,"Paris, France",,1967,,
-FN-99C,Tristan Da Cunha,,1827,,
-FN-99C,Tristan Da Cunha,,1967,,
+dcterms:title,dcterms:spatial,dcterms:date,art:url
+FN-1A,"19.605298398189095, -72.21907364602487", ,https://scalar.usc.edu/works/decoding-diaspora/media/FN-1A.jpg
+FN-1B,"17.1554, 62.5796",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-1B.jpg
+FN-1C,"	-25.74486	, 28.18783",1949,https://scalar.usc.edu/works/decoding-diaspora/media/FN-1C.jpg
+FN-2A," 29.3013500, -94.7977000",1878,https://scalar.usc.edu/works/decoding-diaspora/media/FN-2A.jpg
+FN-2B,"40.73566,  -74.17237", ,https://scalar.usc.edu/works/decoding-diaspora/media/FN-2B.jpg
+FN-2C,"37.511160, -94.838021",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-2C.jpg
+FN-3A,"14.1666667, 38.96000000",1896,https://scalar.usc.edu/works/decoding-diaspora/media/FN-3A.jpg
+FN-3B,"38.244926, -85.757767",1859,https://scalar.usc.edu/works/decoding-diaspora/media/FN-3B.jpg
+FN-3C,"23.133, 82.383",1852 - 1911,https://scalar.usc.edu/works/decoding-diaspora/media/FN-3C.jpg
+FN-4A,"5.614818, -0.205874", ,https://scalar.usc.edu/works/decoding-diaspora/media/FN-4A.jpg
+FN-4D," 38.89511, -77.03637",1829,https://scalar.usc.edu/works/decoding-diaspora/media/FN-4D.jpg
+FN-4C,"38.20091, -84.87328",1872,https://scalar.usc.edu/works/decoding-diaspora/media/FN-4C.jpg
+FN-5A,"34.020882, -6.841650",1870 - 1880,https://scalar.usc.edu/works/decoding-diaspora/media/FN-5A.jpg
+FN-5C,"18.575394, -72.294708",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-5C.jpg
+FN-5D,"36.746841, -119.772591", ,https://scalar.usc.edu/works/decoding-diaspora/media/FN-5D.jpg
+FN-6A," 33.878167, -90.72732",1847,https://scalar.usc.edu/works/decoding-diaspora/media/FN-6A.jpg
+FN-6D,"48.858093,  2.294694",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-6D.jpg
+FN-6C,"30.005493, 31.477898",1504,https://scalar.usc.edu/works/decoding-diaspora/media/FN-6C.jpg
+FN-7A,"36.81897, 10.16579",1533,https://scalar.usc.edu/works/decoding-diaspora/media/FN-7A.jpg
+FN-7C,"29.901243, -81.312431", ,https://scalar.usc.edu/works/decoding-diaspora/media/FN-7C.jpg
+FN-7D,,1884,https://scalar.usc.edu/works/decoding-diaspora/media/FN-7D.jpg
+FN-8A," 35.546505, 51.129791",2300BC,https://scalar.usc.edu/works/decoding-diaspora/media/FN-8A.jpg
+FN-8C,"39.998089,  -75.134109",1869,https://scalar.usc.edu/works/decoding-diaspora/media/FN-8C.jpg
+FN-8D,"30.005493, 31.477899", ,https://scalar.usc.edu/works/decoding-diaspora/media/FN-8D.jpg
+FN-9A,"6.465422, 3.406448",1958,https://scalar.usc.edu/works/decoding-diaspora/media/FN-9A.jpg
+FN-9C," -25.74486	, 28.18783",1765 -1835,https://scalar.usc.edu/works/decoding-diaspora/media/FN-9C.jpg
+FN-9D,"48.858093,  2.294694",1958,https://scalar.usc.edu/works/decoding-diaspora/media/FN-9D.jpg
+FN-10A,"50.82838, -0.13947",1700,https://scalar.usc.edu/works/decoding-diaspora/media/FN-10A.jpg
+FN-10B,"18.079021, -15.965662",1935,https://scalar.usc.edu/works/decoding-diaspora/media/FN-10B.jpg
+FN-10C,"16.77348, -3.00742",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-10C.jpg
+FN-11A,"46.433334, 6.550000",1956,https://scalar.usc.edu/works/decoding-diaspora/media/FN-11A.jpg
+FN-11C,"40.7128, 74.0060",1825,https://scalar.usc.edu/works/decoding-diaspora/media/FN-11C.jpg
+FN-11D," 37.541290, -77.434769",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-11D.jpg
+FN-12A,"40.7128, 74.0060",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-12A.jpg
+FN-12C,"41.310726, -72.929916",1833-1938,https://scalar.usc.edu/works/decoding-diaspora/media/FN-12C.jpg
+FN-13A,"30.001667, -90.092781",4/6/1893,https://scalar.usc.edu/works/decoding-diaspora/media/FN-13A.jpg
+FN-13C," 37.541290, -77.434769",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-13C.jpg
+FN-14A,"52.370876, -1.265032",1867,https://scalar.usc.edu/works/decoding-diaspora/media/FN-14A.jpg
+FN-14C,"18.575394, -72.294708",1686,https://scalar.usc.edu/works/decoding-diaspora/media/FN-14C.jpg
+FN-14D," 39.12711, -84.51438",1850,https://scalar.usc.edu/works/decoding-diaspora/media/FN-14D.jpg
+FN-15A,"31.560444, -91.403171",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-15A.jpg
+FN-15C,"53.801277, -1.548567",1843,https://scalar.usc.edu/works/decoding-diaspora/media/FN-15C.jpg
+FN-15D,"38.900497,-77.007507",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-15D.jpg
+FN-16A,"-0.803689, 11.609443",1849,https://scalar.usc.edu/works/decoding-diaspora/media/FN-16A.jpg
+FN-16C,"38.900497,-77.007507",1890,https://scalar.usc.edu/works/decoding-diaspora/media/FN-16C.jpg
+FN-17A,"33.589886, -7.603869",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-17A.jpg
+FN-17C,"30.033333, 31.233332",1500BC,https://scalar.usc.edu/works/decoding-diaspora/media/FN-17C.jpg
+FN-17D,,04/13/1873,https://scalar.usc.edu/works/decoding-diaspora/media/FN-17D.jpg
+FN-18A,"9.036000, 38.752300",3730BC,https://scalar.usc.edu/works/decoding-diaspora/media/FN-18A.jpg
+FN-18C,"30.033333, 31.233332",670BC,https://scalar.usc.edu/works/decoding-diaspora/media/FN-18C.jpg
+FN-18D,"44.944099, -123.040283",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-18D.jpg
+FN-19A,,1785 - 1851,https://scalar.usc.edu/works/decoding-diaspora/media/FN-19A.jpg
+FN-19D,"51.507359,  -0.136439",1902,https://scalar.usc.edu/works/decoding-diaspora/media/FN-19D.jpg
+FN-19C,"13.073226,  80.260918",1300 BC,https://scalar.usc.edu/works/decoding-diaspora/media/FN-19C.jpg
+FN-20A,"-15.60915, 34.522820",1962,https://scalar.usc.edu/works/decoding-diaspora/media/FN-20A.jpg
+FN-20D,,1959,https://scalar.usc.edu/works/decoding-diaspora/media/FN-20D.jpg
+FN-21A,"-1.940278, 29.873888", ,https://scalar.usc.edu/works/decoding-diaspora/media/FN-21A.jpg
+FN-21C,"51.507359,  -0.136439",1651,https://scalar.usc.edu/works/decoding-diaspora/media/FN-21C.jpg
+FN-21D,"31.76904, 35.21631",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-21D.jpg
+FN-22A,"51.507359,  -0.136439",1947,https://scalar.usc.edu/works/decoding-diaspora/media/FN-22A.jpg
+FN-22C,"17.712061, -64.876327",1848,https://scalar.usc.edu/works/decoding-diaspora/media/FN-22C.jpg
+FN-22D,"36.726017, 3.082667", ,https://scalar.usc.edu/works/decoding-diaspora/media/FN-22D.jpg
+FN-23A,"30.033333, 31.233334",1500BC,https://scalar.usc.edu/works/decoding-diaspora/media/FN-23A.jpg
+FN-23C," 37.98869, -84.47772",1926,https://scalar.usc.edu/works/decoding-diaspora/media/FN-23C.jpg
+FN-24A,"40.7128, 74.0060",1765 - 1791,https://scalar.usc.edu/works/decoding-diaspora/media/FN-24A.jpg
+FN-24C,"8.983333, -79.516670",1513,https://scalar.usc.edu/works/decoding-diaspora/media/FN-24C.jpg
+FN-24D,"21.050, -102.979",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-24D.jpg
+FN-25A,"38.900497,-77.007507",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-25A.jpg
+FN-25B,"38.900497,-77.007507",1867,https://scalar.usc.edu/works/decoding-diaspora/media/FN-25B.jpg
+FN-25C,"30.033333, 31.233334",1802 - 1811,https://scalar.usc.edu/works/decoding-diaspora/media/FN-25C.jpg
+FN-26A,"-21.1087, 55.5261",1865,https://scalar.usc.edu/works/decoding-diaspora/media/FN-26A.jpg
+FN-26D,"40.367474,  -82.996216",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-26D.jpg
+FN-26C,"35.117500,  -89.971107",1868,https://scalar.usc.edu/works/decoding-diaspora/media/FN-26C.jpg
+FN-27A,"-24.143474, -10.030696",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-27A.jpeg
+FN-27C,"41.047867, 28.898272",1066AD,https://scalar.usc.edu/works/decoding-diaspora/media/FN-27C.jpeg
+FN-27D,"30.1200, -90.5000",1811,https://scalar.usc.edu/works/decoding-diaspora/media/FN-27D.jpeg
+FN-28A,"30.033333, 31.233334",1808,https://scalar.usc.edu/works/decoding-diaspora/media/FN-28A.jpeg
+FN-28B,"40.618139,  -0.101549",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-28B.jpeg
+FN-28C,"30.033333, 31.233334",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-28C.jpeg
+FN-29A,"52.377956, 4.897070",1606 - 1669,https://scalar.usc.edu/works/decoding-diaspora/media/FN-29A.jpeg
+FN-29C,"29.931389, 32.562778",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-29C.jpeg
+FN-30A,"41.505493, -81.681290",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-30A.jpeg
+FN-30C,"19.432608, -99.133209",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-30C.jpeg
+FN-30D,"12.769013, -85.602364",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-30D.jpeg
+FN-31A,"38.900497,-77.007507",1866-1923,https://scalar.usc.edu/works/decoding-diaspora/media/FN-31A.jpeg
+FN-31C,"17.712061, -64.876328",1848,https://scalar.usc.edu/works/decoding-diaspora/media/FN-31C.jpeg
+FN-31D,"40.7128, 74.0060",1940-1950,https://scalar.usc.edu/works/decoding-diaspora/media/FN-31D.jpeg
+FN-32A,"9.30769, 2.315834",1485,https://scalar.usc.edu/works/decoding-diaspora/media/FN-32A.jpeg
+FN-32C,"9.036000, 38.752300",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-32C.jpeg
+FN-32D,"34.799999, -92.199997",1960,https://scalar.usc.edu/works/decoding-diaspora/media/FN-32D.jpeg
+FN-33A," 37.98869, -84.47772",1814,https://scalar.usc.edu/works/decoding-diaspora/media/FN-33A.jpeg
+FN-33C,"9.036000, 38.752300",690BC,https://scalar.usc.edu/works/decoding-diaspora/media/FN-33C.jpeg
+FN-33D,"48.858093,  2.294690",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-33D.jpeg
+FN-34A," 39.799999, -89.650002",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-34A.jpeg
+FN-34C,"30.033333, 31.233334",4500BC,https://scalar.usc.edu/works/decoding-diaspora/media/FN-34C.jpeg
+FN-34D,,1898,https://scalar.usc.edu/works/decoding-diaspora/media/FN-34D.jpeg
+FN-35A,"30.033333, 31.233334",660BC,https://scalar.usc.edu/works/decoding-diaspora/media/FN-35A.jpg
+FN-35D,"42.648613, -73.761391",1892,https://scalar.usc.edu/works/decoding-diaspora/media/FN-35D.jpg
+FN-35C,"40.7128, 74.0060",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-35C.jpg
+FN-36A,"9.30769, 2.315834",1500AD,https://scalar.usc.edu/works/decoding-diaspora/media/FN-36A.jpg
+FN-36C,"41.40338, 2.17403",1700,https://scalar.usc.edu/works/decoding-diaspora/media/FN-36C.jpg
+FN-37A,"14.600000, -61.000000",1848,https://scalar.usc.edu/works/decoding-diaspora/media/FN-37A.jpg
+FN-37D,"40.7128, 74.0060",1863,https://scalar.usc.edu/works/decoding-diaspora/media/FN-37D.jpg
+FN-38A,"39.649391, -76.700983",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-38A.jpg
+FN-38D,"14.599512, 120.984222",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-38D.jpg
+FN-38C,"-25.925386, 27.767382",25000 - 50000BC,https://scalar.usc.edu/works/decoding-diaspora/media/FN-38C.jpg
+FN-39A,"33.836082,  -81.163727",1900,https://scalar.usc.edu/works/decoding-diaspora/media/FN-39A.jpg
+FN-39D,"30.39183,  -92.329102",1844 - 1913,https://scalar.usc.edu/works/decoding-diaspora/media/FN-39D.jpg
+FN-39C," 36.174465, -86.767959",1850,https://scalar.usc.edu/works/decoding-diaspora/media/FN-39C.jpg
+FN-40A,"23.113592, -82.366592",1927,https://scalar.usc.edu/works/decoding-diaspora/media/FN-40A.jpg
+FN-40C,"38.900497,-77.007507",1830,https://scalar.usc.edu/works/decoding-diaspora/media/FN-40C.jpg
+FN-40D,"30.001667, -90.092781",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-40D.jpg
+FN-41A,"52.520008,13.404954",1858 - 1925,https://scalar.usc.edu/works/decoding-diaspora/media/FN-41A.jpg
+FN-41C,"48.858093,  2.294692",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-41C.jpg
+FN-41D,"33.748783,-84.388167",1892,https://scalar.usc.edu/works/decoding-diaspora/media/FN-41D.jpg
+FN-42A," -26.20227,  28.04363",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-42A.jpg
+FN-42C,"40.696011, -73.993286",1861,https://scalar.usc.edu/works/decoding-diaspora/media/FN-42C.jpg
+FN-42D,"40.7128, 74.0062",1959,https://scalar.usc.edu/works/decoding-diaspora/media/FN-42D.jpg
+FN-43A,"31.898043, 35.204269",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-43A.jpg
+FN-43C,"38.192902, -84.883942",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-43C.jpg
+FN-43D,"38.900497,-77.007507",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-43D.jpg
+FN-44A,"34.767597, -89.448689",1848,https://scalar.usc.edu/works/decoding-diaspora/media/FN-44A.jpg
+FN-44B," 39.799999, -89.650002",01-1862,https://scalar.usc.edu/works/decoding-diaspora/media/FN-44B.jpg
+FN-44D,,300,https://scalar.usc.edu/works/decoding-diaspora/media/FN-44D.jpg
+FN-45A,"6.465422, 3.406448",800 - 1300AD,https://scalar.usc.edu/works/decoding-diaspora/media/FN-45A.jpg
+FN-45D,,1925,https://scalar.usc.edu/works/decoding-diaspora/media/FN-45D.jpg
+FN-45C," 37.541290, -77.434769",1806 - 1863,https://scalar.usc.edu/works/decoding-diaspora/media/FN-45C.jpg
+FN-46A," -0.755775, 33.438353",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-46A.jpg
+FN-46C,"42.361145, -71.057083",1861 - 1865,https://scalar.usc.edu/works/decoding-diaspora/media/FN-46C.jpg
+FN-46D,"40.7128, 74.0060",1884,https://scalar.usc.edu/works/decoding-diaspora/media/FN-46D.jpg
+FN-47A,"19.8078, -96.9160",100AD,https://scalar.usc.edu/works/decoding-diaspora/media/FN-47A.jpg
+FN-47C,"12.136389, -86.251389",1870,https://scalar.usc.edu/works/decoding-diaspora/media/FN-47C.jpg
+FN-48A,"41.89193, 12.51133.",1896,https://scalar.usc.edu/works/decoding-diaspora/media/FN-48A.jpg
+FN-48C," -18.816667, 31.95",1903,https://scalar.usc.edu/works/decoding-diaspora/media/FN-48C.jpg
+FN-48D,"33.510414, 36.278336",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-48D.jpg
+FN-49A,"41.093842, -85.139236",07-18-1863,https://scalar.usc.edu/works/decoding-diaspora/media/FN-49A.jpg
+FN-49C,"42.361145, -71.057083",1786,https://scalar.usc.edu/works/decoding-diaspora/media/FN-49C.jpg
+FN-49D,"38.7995, -78.4614",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-49D.jpg
+FN-50A,"42.055984, 	-87.675171",1954,https://scalar.usc.edu/works/decoding-diaspora/media/FN-50A.jpg
+FN-50D,"48.858093,  2.294694",1910-1920,https://scalar.usc.edu/works/decoding-diaspora/media/FN-50D.jpg
+FN-50C,"38.978443, -76.492180",1633,https://scalar.usc.edu/works/decoding-diaspora/media/FN-50C.jpg
+FN-51A,"	36.779591, -76.288376",1844,https://scalar.usc.edu/works/decoding-diaspora/media/FN-51A.jpg
+FN-51C,"51.507359,  -0.136439",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-51C.jpg
+FN-51D,"50.134664, -0.357056",18497,https://scalar.usc.edu/works/decoding-diaspora/media/FN-51D.jpg
+FN-52A,"42.361145, -71.057083",1863,https://scalar.usc.edu/works/decoding-diaspora/media/FN-52A.jpg
+FN-52C,"21.42664, 39.82563",600AD,https://scalar.usc.edu/works/decoding-diaspora/media/FN-52C.jpg
+FN-52D," 37.541290, -77.434769",1526,https://scalar.usc.edu/works/decoding-diaspora/media/FN-52D.jpg
+FN-53A," 42.3544 , -83.0687",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-53A.jpg
+FN-53C,,1915,https://scalar.usc.edu/works/decoding-diaspora/media/FN-53C.jpg
+FN-53D,"35.117500, -89.971107",1856,https://scalar.usc.edu/works/decoding-diaspora/media/FN-53D.jpg
+FN-54A,"40.73566,  -74.17237",1821 - 1902,https://scalar.usc.edu/works/decoding-diaspora/media/FN-54A.jpg
+FN-54C,"9.30769, 2.315834",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-54C.jpg
+FN-54D,,1351BC,https://scalar.usc.edu/works/decoding-diaspora/media/FN-54D.jpg
+FN-55A," -23.533773, -46.625290",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-55A.jpg
+FN-55C,"42.361145, -71.057083",1703,https://scalar.usc.edu/works/decoding-diaspora/media/FN-55C.jpg
+FN-55D,"30.033333, 31.233334",4000BC,https://scalar.usc.edu/works/decoding-diaspora/media/FN-55D.jpg
+FN-56A,"7.376736,  3.939786",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-56A.jpg
+FN-56C,,1922,https://scalar.usc.edu/works/decoding-diaspora/media/FN-56C.jpg
+FN-56D,,1732 - 1786,https://scalar.usc.edu/works/decoding-diaspora/media/FN-56D.jpg
+FN-57A,"32.429066, 	-85.715233",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-57A.jpg
+FN-57C,"	29.378586, 	47.990341",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-57C.jpg
+FN-57D,"32.779167, -96.808891",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-57D.jpg
+FN-58A,"33.753746, -84.386330",1855,https://scalar.usc.edu/works/decoding-diaspora/media/FN-58A.jpg
+FN-58D,"33.753746, -84.386330",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-58D.jpg
+FN-58C,,1816 - 1882,https://scalar.usc.edu/works/decoding-diaspora/media/FN-58C.jpg
+FN-59C,,1875 - 1910,https://scalar.usc.edu/works/decoding-diaspora/media/FN-59C.jpg
+FN-60A," 23.128994, 113.253250",300,https://scalar.usc.edu/works/decoding-diaspora/media/FN-60A.jpg
+FN-60D,"14.1666667, 38.96000000",937 - 977AD,https://scalar.usc.edu/works/decoding-diaspora/media/FN-60D.jpg
+FN-60C," 37.541290, -77.434769",04-1864,https://scalar.usc.edu/works/decoding-diaspora/media/FN-60C.jpg
+FN-61B,"41.012604, 28.959648",1855,https://scalar.usc.edu/works/decoding-diaspora/media/FN-61B.jpg
+FN-61A,"38.62727, -90.19789",1898,https://scalar.usc.edu/works/decoding-diaspora/media/FN-61A.jpg
+FN-61C," -3.117034, -60.025780",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-61C.jpg
+FN-62A,"28.644800, 77.216721",1879,https://scalar.usc.edu/works/decoding-diaspora/media/FN-62A.jpg
+FN-62C,"51.507359,  -0.136439",1951,https://scalar.usc.edu/works/decoding-diaspora/media/FN-62C.jpg
+FN-62D,"48.858093,  2.294694",1909,https://scalar.usc.edu/works/decoding-diaspora/media/FN-62D.jpg
+FN-63A," 37.541290, -77.434769",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-63A.jpg
+FN-63C," -15.793889, -47.882778",1519,https://scalar.usc.edu/works/decoding-diaspora/media/FN-63C.jpg
+FN-63D,"7.376736,  3.939786",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-63D.jpg
+FN-64A,,1683,https://scalar.usc.edu/works/decoding-diaspora/media/FN-64A.jpg
+FN-64C,,300BC,https://scalar.usc.edu/works/decoding-diaspora/media/FN-64C.jpg
+FN-65A,"40.367474, -82.996216",1818 - 1907,https://scalar.usc.edu/works/decoding-diaspora/media/FN-65A.jpg
+FN-65C,"40.416775, -3.703790",1734 - 1770 ,https://scalar.usc.edu/works/decoding-diaspora/media/FN-65C.jpg
+FN-65D,"45.523064, -122.676483",7/12/1849,https://scalar.usc.edu/works/decoding-diaspora/media/FN-65D.jpg
+FN-66A,"9.30769, 2.315834",1831 - 1906,https://scalar.usc.edu/works/decoding-diaspora/media/FN-66A.jpg
+FN-66B,"40.7128, 74.0060",1821,https://scalar.usc.edu/works/decoding-diaspora/media/FN-66B.jpg
+FN-66D,"30.033333, 31.233332",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-66D.jpg
+FN-67A,"39.998089,  -75.134109",1848 - 1919,https://scalar.usc.edu/works/decoding-diaspora/media/FN-67A.jpg
+FN-67C,"37.983810, 23.72753",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-67C.jpg
+FN-67D,"41.40338, 2.17403",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-67D.jpg
+FN-68A,"49.250, 3.080",1941,https://scalar.usc.edu/works/decoding-diaspora/media/FN-68A.jpg
+FN-68C,"32.776566, -79.930923",1961,https://scalar.usc.edu/works/decoding-diaspora/media/FN-68C.jpg
+FN-68D,"5.614818, -0.205874",300 - 1200,https://scalar.usc.edu/works/decoding-diaspora/media/FN-68D.jpg
+FN-69A,"45.437611, 12.337035",1725 - 1798,https://scalar.usc.edu/works/decoding-diaspora/media/FN-69A.jpg
+FN-69D,"42.391764, -71.032828",1864 - 1927,https://scalar.usc.edu/works/decoding-diaspora/media/FN-69D.jpg
+FN-69C,"18.575394, -72.294708",1806 - 1868,https://scalar.usc.edu/works/decoding-diaspora/media/FN-69C.jpg
+FN-70A,"40.446, -79.982",1937,https://scalar.usc.edu/works/decoding-diaspora/media/FN-70A.jpg
+FN-70C,"14.883333, 5.266667",146 - 211AD,https://scalar.usc.edu/works/decoding-diaspora/media/FN-70C.jpg
+FN-70D,"30.54323, 31.78504",1881,https://scalar.usc.edu/works/decoding-diaspora/media/FN-70D.jpg
+FN-71A,"39.113014, -105.358887",1820,https://scalar.usc.edu/works/decoding-diaspora/media/FN-71A.jpg
+FN-71C,"40.7128, 74.0060",1703,https://scalar.usc.edu/works/decoding-diaspora/media/FN-71C.jpg
+FN-71D,"12.769013, -85.602364",1769 - 1859,https://scalar.usc.edu/works/decoding-diaspora/media/FN-71D.jpg
+FN-72A,"28.644800, 77.216720",1365BC,https://scalar.usc.edu/works/decoding-diaspora/media/FN-72A.jpg
+FN-72C,"30.001667, -90.092781",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-72C.jpg
+FN-72D,"30.033333, 31.233334",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-72D.jpg
+FN-73A,"41.047867, 28.898269",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-73A.jpg
+FN-73D,"33.752491, 78.668243",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-73D.jpg
+FN-73C,"6.465422, 3.406448",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-73C.jpg
+FN-74A,"36.737232, 3.086472",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-74A.jpg
+FN-74D,"31.76904, 35.21631",660 - 250BC,https://scalar.usc.edu/works/decoding-diaspora/media/FN-74D.jpg
+FN-74C,"30.73918, -88.080482",1937,https://scalar.usc.edu/works/decoding-diaspora/media/FN-74C.jpg
+FN-75A,"42.361145, -71.057083",1964,https://scalar.usc.edu/works/decoding-diaspora/media/FN-75A.jpg
+FN-75C,"48.700001, 44.516666",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-75C.jpg
+FN-75D,"30.033333, 31.233332",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-75D.jpg
+FN-76A,"-4.769162, 11.866362",1700,https://scalar.usc.edu/works/decoding-diaspora/media/FN-76A.jpg
+FN-76B,"40.034901, -75.337349",1714,https://scalar.usc.edu/works/decoding-diaspora/media/FN-76B.jpg
+FN-76C,"30.001667, -90.092781",1862,https://scalar.usc.edu/works/decoding-diaspora/media/FN-76C.jpg
+FN-77A,"18.370247, -76.890305",1947,https://scalar.usc.edu/works/decoding-diaspora/media/FN-77A.jpg
+FN-77C,"-12.046374, -77.042793",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-77C.jpg
+FN-77D,"18.079021, -15.965662",1938,https://scalar.usc.edu/works/decoding-diaspora/media/FN-77D.jpg
+FN-78A,"30.033333, 31.233332",600BC,https://scalar.usc.edu/works/decoding-diaspora/media/FN-78A.jpg
+FN-78D,"32.776566, -79.930923",1863,https://scalar.usc.edu/works/decoding-diaspora/media/FN-78D.jpg
+FN-78C,"41.89193, 12.51133",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-78C.jpg
+FN-79A,"-4.425849, 26.66572",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-79A.jpg
+FN-79C,"48.858093,  2.294694",08-12-1790,https://scalar.usc.edu/works/decoding-diaspora/media/FN-79C.jpg
+FN-79D,"51.507359,  -0.136439",1850,https://scalar.usc.edu/works/decoding-diaspora/media/FN-79D.jpg
+FN-80A," -19.015438, 29.15485",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-80A.jpg
+FN-80C,"6.24793, -57.5171",05-05-1641,https://scalar.usc.edu/works/decoding-diaspora/media/FN-80C.jpg
+FN-80D,"42.085, -74.316",850BC,https://scalar.usc.edu/works/decoding-diaspora/media/FN-80D.jpg
+FN-81A,"30.033333, 31.233332",1824 - 1904,https://scalar.usc.edu/works/decoding-diaspora/media/FN-81A.jpg
+FN-81C," 37.541290, -77.434769",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-81C.jpg
+FN-82A,"41.899647,12.487023",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-82A.jpg
+FN-82D,"55.75222, 37.61556",1865,https://scalar.usc.edu/works/decoding-diaspora/media/FN-82D.jpg
+FN-82C,"14.166666, 38.8999964",1894,https://scalar.usc.edu/works/decoding-diaspora/media/FN-82C.jpg
+FN-83A,"9.30769, 2.315834",1100,https://scalar.usc.edu/works/decoding-diaspora/media/FN-83A.jpg
+FN-83C,"15.240796, -61.31486",1958,https://scalar.usc.edu/works/decoding-diaspora/media/FN-83C.jpg
+FN-83D,"28.1747, -81.8225",1502 - 1886,https://scalar.usc.edu/works/decoding-diaspora/media/FN-83D.jpg
+FN-84A,"13.746389, 100.535004",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-84A.jpg
+FN-84C,"15.508457, 32.522854",1896,https://scalar.usc.edu/works/decoding-diaspora/media/FN-84C.jpg
+FN-85A,"32.430237, -85.707727",1948,https://scalar.usc.edu/works/decoding-diaspora/media/FN-85A.jpg
+FN-85C,"38.900497,-77.007507",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-85C.jpg
+FN-85D,"42.361145, -71.057083",01/01/1776,https://scalar.usc.edu/works/decoding-diaspora/media/FN-85D.jpg
+FN-86A,"30.033333, 31.233332",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-86A.jpg
+FN-86C,"8.43194, -13.28972",1860,https://scalar.usc.edu/works/decoding-diaspora/media/FN-86C.jpg
+FN-86D,"30.033333, 31.233332",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-86D.jpg
+FN-87A,,1875 - 1910,https://scalar.usc.edu/works/decoding-diaspora/media/FN-87A.jpg
+FN-87C,"31.159591, -81.388552",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-87C.jpg
+FN-87D,"25.901747, -97.497484",5/13/1865,https://scalar.usc.edu/works/decoding-diaspora/media/FN-87D.jpg
+FN-88C,"40.758701, -111.876183",1877,https://scalar.usc.edu/works/decoding-diaspora/media/FN-88C.jpg
+FN-89A,"37.22792, -77.401927",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-89A.jpg
+FN-89C,"37.828724, -122.35553",1915,https://scalar.usc.edu/works/decoding-diaspora/media/FN-89C.jpg
+FN-89D,,1870,https://scalar.usc.edu/works/decoding-diaspora/media/FN-89D.jpg
+FN-90A,"6.465422, 3.40644",800AD,https://scalar.usc.edu/works/decoding-diaspora/media/FN-90A.jpg
+FN-90B,"33.836082,  -81.163727",1890,https://scalar.usc.edu/works/decoding-diaspora/media/FN-90B.jpg
+FN-90C,"30.26666, -97.733330",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-90C.jpg
+FN-91A," 37.541290, -77.434769",1841,https://scalar.usc.edu/works/decoding-diaspora/media/FN-91A.jpg
+FN-91C,"39.382603, -77.269424",1818,https://scalar.usc.edu/works/decoding-diaspora/media/FN-91C.jpg
+FN-91D,"40.610306, -75.477104",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-91D.jpg
+FN-92A,,1850 - 1909,https://scalar.usc.edu/works/decoding-diaspora/media/FN-92A.jpg
+FN-92C,"42.827061, 13.929301",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-92-1C.jpg
+FN-92D,"42.88023, -78.878738",615,https://scalar.usc.edu/works/decoding-diaspora/media/FN-92-1D.jpg
+FN-93A,"17.1554, 62.5796",,https://scalar.usc.edu/works/decoding-diaspora/media/FN-93A.jpg
+FN-93C,"38.900497,-77.007507",1905 - 1913,https://scalar.usc.edu/works/decoding-diaspora/media/FN-93C.jpg
+FN-93D,"37.76627, -84.852119",1799,https://scalar.usc.edu/works/decoding-diaspora/media/FN-93D.jpg
+FN-94A,"30.033333, 31.233334",1714 - 1799,https://scalar.usc.edu/works/decoding-diaspora/media/FN-94A.jpg
+FN-94C,"32.116669, 20.066668",624BC,https://scalar.usc.edu/works/decoding-diaspora/media/FN-94C.jpg
+FN-95A,"43.769562, 11.255814",1500,https://scalar.usc.edu/works/decoding-diaspora/media/FN-95A.jpg
+FN-95C,"23.113592, -82.366592",1858 - 1909,https://scalar.usc.edu/works/decoding-diaspora/media/FN-95C.jpg
+FN-95D,"18.079021, -15.965662",1938,https://scalar.usc.edu/works/decoding-diaspora/media/FN-95D.jpg
+FN-97A,"38.900497,-77.007507",1834,https://scalar.usc.edu/works/decoding-diaspora/media/FN-97A.jpg
+FN-97B,"26.820553, 30.802498",1350BC,https://scalar.usc.edu/works/decoding-diaspora/media/FN-97B.jpg
+FN-98A,"40.7128, 74.0060",1815 - 1881,https://scalar.usc.edu/works/decoding-diaspora/media/FN-98A.jpg
+FN-98C,"51.507359,  -0.136439",1521,https://scalar.usc.edu/works/decoding-diaspora/media/FN-98C.jpg
+FN-98D,"38.7000, 77.4800",1794,https://scalar.usc.edu/works/decoding-diaspora/media/FN-98D.jpg
+FN-99A,"48.858093,  2.294694",1967,https://scalar.usc.edu/works/decoding-diaspora/media/FN-99A.jpg
+FN-99C,"-37.116666666667 , -12.283055555556",1827,https://scalar.usc.edu/works/decoding-diaspora/media/FN-99C.jpg
